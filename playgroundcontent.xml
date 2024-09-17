@@ -628,7 +628,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/image.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image.webp]]></wp:meta_value>
@@ -661,7 +661,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/image.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image.jpeg]]></wp:meta_value>
