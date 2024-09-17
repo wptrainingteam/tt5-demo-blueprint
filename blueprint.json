@@ -40,8 +40,8 @@
         "blogname": "Twenty-Twenty-Five",
         "blogdescription": "A preview of the next WordPress default theme",
         "show_on_front": "page",
-		    "page_on_front": 6,
-		    "page_for_posts": 2
+		    "page_on_front": 80,
+		    "page_for_posts": 26
       }
     },
     {
