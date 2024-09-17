@@ -363,7 +363,7 @@
 
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:image {"id":30,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":"var:preset|duotone|purple-green"}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/random-headshot-1.jpg" alt="" class="wp-image-30" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="/wp-content/uploads/2024/09/random-headshot-1.jpg" alt="" class="wp-image-30" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap","justifyContent":"center"}} -->
@@ -419,7 +419,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/random-headshot-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/random-headshot-1.jpg]]></wp:meta_value>
@@ -473,13 +473,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":36,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-2.jpeg" alt="The sun setting through a dense forest." class="wp-image-36"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2024/09/image-2.jpeg" alt="The sun setting through a dense forest." class="wp-image-36"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.62%"} -->
 <div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":35,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-1.jpeg" alt="Wind turbines standing on a grassy plain, against a blue sky." class="wp-image-35"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2024/09/image-1.jpeg" alt="Wind turbines standing on a grassy plain, against a blue sky." class="wp-image-35"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -487,7 +487,7 @@
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"3vw"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"69%"} -->
 <div class="wp-block-column" style="flex-basis:69%"><!-- wp:image {"id":34,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image.jpeg" alt="The sun shining over a ridge leading down into the shore. In the distance, a car drives down a road." class="wp-image-34"/></figure>
+<figure class="wp-block-image size-large"><img src="/wp-content/uploads/2024/09/image.jpeg" alt="The sun shining over a ridge leading down into the shore. In the distance, a car drives down a road." class="wp-image-34"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -610,7 +610,7 @@
 		<link>http://wordpress-67.local/patterns/image/</link>
 		<pubDate>Mon, 16 Sep 2024 14:23:05 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/image.webp</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
