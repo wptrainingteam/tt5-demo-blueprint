@@ -1,6 +1,13 @@
 {
   "landingPage": "/",
+  "features": {
+		"networking": true
+	},
+	
   "steps": [
+    {
+			"step": "login"
+    }
     {
         "step": "wp-cli",
         "command": "wp site empty --yes"
