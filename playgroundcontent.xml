@@ -1202,7 +1202,7 @@
 <!-- /wp:group -->
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":55,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><a href="/category/europe"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Munich-Marstall-1024x562.jpg" alt="" class="wp-image-55"/></a></figure>
+<figure class="wp-block-image size-large"><a href="/category/europe"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall-1024x562.jpg" alt="" class="wp-image-55"/></a></figure>
 <!-- /wp:image --></div></div>
 <!-- /wp:cover --></div>
 <!-- /wp:column --></div>
