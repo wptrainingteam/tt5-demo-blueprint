@@ -191,7 +191,7 @@
 		<link>http://wordpress-67.local/?attachment_id=8</link>
 		<pubDate>Sat, 31 Aug 2024 10:13:42 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/08/Tofino-BC02024.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Tofino-BC02024.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -209,7 +209,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/08/Tofino-BC02024-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Tofino-BC02024-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/08/Tofino-BC02024-scaled.jpg]]></wp:meta_value>
@@ -224,7 +224,7 @@
 		<link>http://wordpress-67.local/rooftop-art-in-torino-italy/rooftop-art-torino-italy/</link>
 		<pubDate>Mon, 16 Sep 2024 13:52:17 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -242,7 +242,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Rooftop-Art-Torino-Italy.jpg]]></wp:meta_value>
@@ -309,7 +309,7 @@
 <!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"0","left":"0"},"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-columns alignwide" style="padding-right:0;padding-left:0"><!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:image {"id":30,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":"var:preset|duotone|dark-grayscale"}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/random-headshot-1.jpg" alt="" class="wp-image-30" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg" alt="" class="wp-image-30" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap","justifyContent":"center"}} -->
@@ -327,7 +327,7 @@
 
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:image {"id":30,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":"var:preset|duotone|purple-yellow"}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/random-headshot-1.jpg" alt="" class="wp-image-30" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg" alt="" class="wp-image-30" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
@@ -345,7 +345,7 @@
 
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:image {"id":30,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":"var:preset|duotone|midnight"}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/random-headshot-1.jpg" alt="" class="wp-image-30" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg" alt="" class="wp-image-30" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
@@ -676,7 +676,7 @@
 		<link>http://wordpress-67.local/patterns/image-3/</link>
 		<pubDate>Mon, 16 Sep 2024 14:23:05 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/image-1.jpeg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -694,7 +694,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/image-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-1.jpeg]]></wp:meta_value>
@@ -709,7 +709,7 @@
 		<link>http://wordpress-67.local/patterns/image-4/</link>
 		<pubDate>Mon, 16 Sep 2024 14:23:07 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/image-2.jpeg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -727,7 +727,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/image-2.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-2.jpeg]]></wp:meta_value>
@@ -767,20 +767,20 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":55,"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Munich-Marstall-1024x562.jpg" alt="" class="wp-image-55"/><figcaption class="wp-element-caption">Image block, default</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall-1024x562.jpg" alt="" class="wp-image-55"/><figcaption class="wp-element-caption">Image block, default</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":53,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/8-1024x585.png" alt="" class="wp-image-53"/><figcaption class="wp-element-caption">IImage Block, rounded</figcaption></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8-1024x585.png" alt="" class="wp-image-53"/><figcaption class="wp-element-caption">IImage Block, rounded</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:gallery {"linkTo":"none","style":{"border":{"style":"solid","width":"1px"}},"borderColor":"accent-3"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped has-border-color has-accent-3-border-color" style="border-style:solid;border-width:1px"><!-- wp:image {"id":55,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Munich-Marstall-1024x562.jpg" alt="" class="wp-image-55"/><figcaption class="wp-element-caption">Munic Marstall</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall-1024x562.jpg" alt="" class="wp-image-55"/><figcaption class="wp-element-caption">Munic Marstall</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":53,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/8-1024x585.png" alt="" class="wp-image-53"/><figcaption class="wp-element-caption">Phantasie Town</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8-1024x585.png" alt="" class="wp-image-53"/><figcaption class="wp-element-caption">Phantasie Town</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":8,"sizeSlug":"large","linkDestination":"none"} -->
@@ -788,7 +788,7 @@
 <!-- /wp:image -->
 
 <!-- wp:image {"id":23,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="Rooftop art in Torino, Italy" class="wp-image-23"/><figcaption class="wp-element-caption">Rooftop Art</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="Rooftop art in Torino, Italy" class="wp-image-23"/><figcaption class="wp-element-caption">Rooftop Art</figcaption></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -874,7 +874,7 @@
 		<link>http://wordpress-67.local/8/</link>
 		<pubDate>Mon, 16 Sep 2024 15:27:32 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/8.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -892,7 +892,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/8.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/8.png]]></wp:meta_value>
@@ -907,7 +907,7 @@
 		<link>http://wordpress-67.local/blocks/munich-marstall/</link>
 		<pubDate>Mon, 16 Sep 2024 15:32:21 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/Munich-Marstall.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -925,7 +925,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/Munich-Marstall-scaled.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall-scaled.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Munich-Marstall-scaled.jpg]]></wp:meta_value>
@@ -1098,7 +1098,7 @@
 		<link>http://wordpress-67.local/templates/single-post-template/screenshot-2024-09-16-at-18-15-02/</link>
 		<pubDate>Mon, 16 Sep 2024 16:16:49 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/Screenshot-2024-09-16-at-18.15.02.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/2024/09/Screenshot-2024-09-16-at-18.15.02.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1116,7 +1116,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/Screenshot-2024-09-16-at-18.15.02.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot-2024-09-16-at-18.15.02.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Screenshot-2024-09-16-at-18.15.02.png]]></wp:meta_value>
@@ -1131,7 +1131,7 @@
 		<link>http://wordpress-67.local/templates/single-post-template/screenshot-2024-09-16-at-18-17-40/</link>
 		<pubDate>Mon, 16 Sep 2024 16:17:58 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/Screenshot-2024-09-16-at-18.17.40.png</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot-2024-09-16-at-18.17.40.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1149,7 +1149,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/Screenshot-2024-09-16-at-18.17.40.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot-2024-09-16-at-18.17.40.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Screenshot-2024-09-16-at-18.17.40.png]]></wp:meta_value>
