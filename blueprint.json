@@ -1,0 +1,32 @@
+{
+  "landingPage": "/",
+  "steps": [
+    {
+      "step": "setSiteOptions",
+      "options": {
+        "blogname": "Twenty-Twenty-Five",
+        "blogdescription": "A preview of the next WordPress default theme",
+        "show_on_front": "page",
+		"page_on_front": 6,
+		"page_for_posts": 2
+      }
+    },
+    {
+        "step": "updateUserMeta",
+        "meta": {
+            "admin_color": "modern"
+        },
+        "userId": 1
+    },
+    {
+        "step": "installTheme",
+        "themeZipFile": {
+            "resource": "url",
+            "url": "https://github-proxy.com/proxy/?repo=WordPress/twentytwentyfive&branch=trunk"
+        },
+        "options": {
+            "activate": true
+        }
+    }
+  ]
+}
