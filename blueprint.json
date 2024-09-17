@@ -49,7 +49,7 @@
       "step": "importWxr",
 			"file": {
 				"resource": "url",
-				"url": "https://raw.githubusercontent.com/bph/hellodashboard/main/playgroundguide.xml"
+				"url": "https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/playgroundcontent.xml"
 			}
     }
 			
