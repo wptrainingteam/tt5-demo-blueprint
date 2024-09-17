@@ -3,10 +3,9 @@
   "features": {
 		"networking": true
 	},
-	
   "steps": [
     {
-			"step": "login"
+			  "step": "login"
     },
     {
         "step": "wp-cli",
