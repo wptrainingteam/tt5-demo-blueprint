@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7-alpha-59047" created="2024-09-18 09:14" -->
+	<!-- generator="WordPress/6.7-alpha-59047" created="2024-09-18 09:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WordPress 6.7</title>
 	<link>http://wordpress-67.local</link>
 	<description></description>
-	<pubDate>Wed, 18 Sep 2024 09:14:53 +0000</pubDate>
+	<pubDate>Wed, 18 Sep 2024 09:31:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress-67.local</wp:base_site_url>
@@ -158,7 +158,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://wordpress-67.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Rooftop-Art-Torino-Italy.jpg]]></wp:meta_value>
@@ -1014,7 +1014,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"120px","textTransform":"uppercase","letterSpacing":"-2px","lineHeight":"0.9","fontStyle":"normal","fontWeight":"700"}},"fontFamily":"manrope"} -->
-<p class="has-text-align-left has-manrope-font-family" style="font-size:120px;font-style:normal;font-weight:700;letter-spacing:-2px;line-height:0.9;text-transform:uppercase"><a href="/category/canada">Europe</a></p>
+<p class="has-text-align-left has-manrope-font-family" style="font-size:120px;font-style:normal;font-weight:700;letter-spacing:-2px;line-height:0.9;text-transform:uppercase"><a href="/category/europe">Europe</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":23,"sizeSlug":"large","linkDestination":"custom"} -->
@@ -1125,8 +1125,8 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:post_id>80</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-17 09:18:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-17 09:18:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-18 08:47:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-18 08:47:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-18 09:31:40]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-18 09:31:40]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[front-page]]></wp:post_name>
