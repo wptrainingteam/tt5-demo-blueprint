@@ -2092,22 +2092,22 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[birgit]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?p=96</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":80,"url":"http://wordpress-67.local/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":80,"url":"/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"About Us","type":"page","description":"","id":28,"url":"http://wordpress-67.local/about-us/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"About Us","type":"page","description":"","id":28,"url":"/about-us/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"News","type":"page","description":"A list of the the latest blog posts. ","id":26,"url":"http://wordpress-67.local/news/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"News","type":"page","description":"A list of the the latest blog posts. ","id":26,"url":"/news/","kind":"post-type"} /-->
 
-<!-- wp:navigation-submenu {"label":"Patterns","type":"page","id":32,"url":"http://wordpress-67.local/patterns/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Page Patterns","type":"page","id":183,"url":"http://wordpress-67.local/patterns/page-patterns/","kind":"post-type","fontSize":"small"} /-->
+<!-- wp:navigation-submenu {"label":"Patterns","type":"page","id":32,"url":"/patterns/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Page Patterns","type":"page","id":183,"url":"/patterns/page-patterns/","kind":"post-type","fontSize":"small"} /-->
 
-<!-- wp:navigation-link {"label":"Blocks","type":"page","id":52,"url":"http://wordpress-67.local/blocks/","kind":"post-type","fontSize":"small"} /-->
+<!-- wp:navigation-link {"label":"Blocks","type":"page","id":52,"url":"/blocks/","kind":"post-type","fontSize":"small"} /-->
 <!-- /wp:navigation-submenu -->
 
-<!-- wp:navigation-submenu {"label":"Templates","type":"page","id":63,"url":"http://wordpress-67.local/templates/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Single Page Layout","type":"page","id":65,"url":"http://wordpress-67.local/templates/single-page-layout/","kind":"post-type","fontSize":"small"} /-->
+<!-- wp:navigation-submenu {"label":"Templates","type":"page","id":63,"url":"/templates/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Single Page Layout","type":"page","id":65,"url":"/templates/single-page-layout/","kind":"post-type","fontSize":"small"} /-->
 
-<!-- wp:navigation-link {"label":"Page no title","type":"page","id":192,"url":"http://wordpress-67.local/page-no-title/","kind":"post-type","fontSize":"small"} /-->
+<!-- wp:navigation-link {"label":"Page no title","type":"page","id":192,"url":"/page-no-title/","kind":"post-type","fontSize":"small"} /-->
 
 <!-- wp:navigation-link {"label":"404 (Page not found) ","url":"/notfound","kind":"custom","fontSize":"small"} /-->
 <!-- /wp:navigation-submenu -->]]></content:encoded>
