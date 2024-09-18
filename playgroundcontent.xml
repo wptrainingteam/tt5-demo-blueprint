@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7-alpha-59047" created="2024-09-18 09:31" -->
+	<!-- generator="WordPress/6.7-alpha-59047" created="2024-09-18 09:52" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>WordPress 6.7</title>
 	<link>http://wordpress-67.local</link>
 	<description></description>
-	<pubDate>Wed, 18 Sep 2024 09:31:59 +0000</pubDate>
+	<pubDate>Wed, 18 Sep 2024 09:52:05 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://wordpress-67.local</wp:base_site_url>
@@ -136,6 +136,64 @@
 	<generator>https://wordpress.org/?v=6.7-alpha-59047</generator>
 
 		<item>
+		<title><![CDATA[Sample Page]]></title>
+		<link>http://wordpress-67.local/?page_id=2</link>
+		<pubDate>Sat, 31 Aug 2024 10:06:52 +0000</pubDate>
+		<dc:creator><![CDATA[birgit]]></dc:creator>
+		<guid isPermaLink="false">http://wordpress-67.local/?page_id=2</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>...or something like this:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>As a new WordPress user, you should go to <a href="http://wordpress-67.local/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>2</wp:post_id>
+		<wp:post_date><![CDATA[2024-08-31 10:06:52]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-08-31 10:06:52]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-09-16 15:08:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-16 15:08:52]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
+		<wp:status><![CDATA[trash]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1726499332]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Rooftop-Art-Torino-Italy]]></title>
 		<link>http://wordpress-67.local/rooftop-art-in-torino-italy/rooftop-art-torino-italy/</link>
 		<pubDate>Mon, 16 Sep 2024 13:52:17 +0000</pubDate>
@@ -941,39 +999,6 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Screenshot 2024-09-16 at 18.17.40]]></title>
-		<link>http://wordpress-67.local/?attachment_id=76</link>
-		<pubDate>Mon, 16 Sep 2024 16:17:58 +0000</pubDate>
-		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/Screenshot-2024-09-16-at-18.17.40.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>76</wp:post_id>
-		<wp:post_date><![CDATA[2024-09-16 16:17:58]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-09-16 16:17:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-16 16:17:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-16 16:17:58]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[screenshot-2024-09-16-at-18-17-40]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>74</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot-2024-09-16-at-18.17.40.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/09/Screenshot-2024-09-16-at-18.17.40.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:761;s:6:"height";i:687;s:4:"file";s:45:"2024/09/Screenshot-2024-09-16-at-18.17.40.png";s:8:"filesize";i:133948;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:45:"Screenshot-2024-09-16-at-18.17.40-300x271.png";s:5:"width";i:300;s:6:"height";i:271;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:26374;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"Screenshot-2024-09-16-at-18.17.40-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9441;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[]]></title>
 		<link>http://wordpress-67.local/</link>
 		<pubDate>Tue, 17 Sep 2024 09:18:36 +0000</pubDate>
@@ -1180,39 +1205,6 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:686;s:4:"file";s:13:"2024/09/8.jpg";s:8:"filesize";i:119010;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:13:"8-300x172.jpg";s:5:"width";i:300;s:6:"height";i:172;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23291;}s:5:"large";a:5:{s:4:"file";s:14:"8-1024x585.jpg";s:5:"width";i:1024;s:6:"height";i:585;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154689;}s:9:"thumbnail";a:5:{s:4:"file";s:13:"8-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13177;}s:12:"medium_large";a:5:{s:4:"file";s:13:"8-768x439.jpg";s:5:"width";i:768;s:6:"height";i:439;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97060;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Screenshot]]></title>
-		<link>http://wordpress-67.local/screenshot/</link>
-		<pubDate>Tue, 17 Sep 2024 17:12:36 +0000</pubDate>
-		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/wp-content/uploads/2024/09/Post-header-web.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[Screenshot]]></excerpt:encoded>
-		<wp:post_id>135</wp:post_id>
-		<wp:post_date><![CDATA[2024-09-17 17:12:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-09-17 17:12:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-17 17:12:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-17 17:12:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[screenshot]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Post-header-web.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024/09/Post-header-web.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:716;s:6:"height";i:679;s:4:"file";s:27:"2024/09/Post-header-web.jpg";s:8:"filesize";i:46643;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:27:"Post-header-web-300x284.jpg";s:5:"width";i:300;s:6:"height";i:284;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22330;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"Post-header-web-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11129;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:10:"Screenshot";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:10:"Screenshot";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1530,6 +1522,68 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[Page no title]]></title>
+		<link>http://wordpress-67.local/page-no-title/</link>
+		<pubDate>Wed, 18 Sep 2024 09:04:13 +0000</pubDate>
+		<dc:creator><![CDATA[birgit]]></dc:creator>
+		<guid isPermaLink="false">http://wordpress-67.local/?page_id=192</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"categories":["header"],"patternName":"core/fullwidth-header-with-hero-image","name":"Fullwidth header with hero image"},"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a017-eberhard-cco-the-after-rain.jpg?w=1200\u0026amp;h=1200\u0026amp;fit=clip\u0026amp;crop=default\u0026amp;dpr=1\u0026amp;q=75\u0026amp;vib=3\u0026amp;con=3\u0026amp;usm=15\u0026amp;cs=srgb\u0026amp;bg=F4F4F3\u0026amp;ixlib=js-2.2.1\u0026amp;s=e7b4ca0a0edcc84ba48c1f7ebf02dd5a","id":61,"hasParallax":true,"dimRatio":20,"overlayColor":"accent-2","isUserOverlayColor":true,"minHeight":40,"minHeightUnit":"vw","contentPosition":"center right","align":"full","style":{"spacing":{"margin":{"top":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"x-large"} -->
+<div class="wp-block-cover alignfull has-parallax has-custom-content-position is-position-center-right has-contrast-color has-text-color has-link-color has-x-large-font-size" style="margin-top:0;min-height:40vw"><span aria-hidden="true" class="wp-block-cover__background has-accent-2-background-color has-background-dim-20 has-background-dim"></span><div class="wp-block-cover__image-background wp-image-61 has-parallax" style="background-position:50% 50%;background-image:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a017-eberhard-cco-the-after-rain.jpg?w=1200&amp;h=1200&amp;fit=clip&amp;crop=default&amp;dpr=1&amp;q=75&amp;vib=3&amp;con=3&amp;usm=15&amp;cs=srgb&amp;bg=F4F4F3&amp;ixlib=js-2.2.1&amp;s=e7b4ca0a0edcc84ba48c1f7ebf02dd5a)"></div><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"className":"is-style-default","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
+<p class="is-style-default has-contrast-color has-text-color has-link-color">Using the page no title template <br>you can start with a hero image to set<br>the emotional stage for your content</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"50px"} -->
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">What is Nature?</h1>
+<!-- /wp:heading --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><strong>Nature</strong> is an inherent character or constitution,particularly of the ecosphere or the universe as a whole. In this general sense, nature refers to the laws, elements, and phenomena of the physical world, including life. Although humans are part of nature, human activity or humans as a whole are often described as at times at odds, or outright separate and even superior to nature.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>During the advent of modern scientific method in the last several centuries, nature became the passive reality, organized and moved by divine laws. With the Industrial Revolution, nature increasingly became considered the part of reality deprived of intentional intervention: it was hence considered as sacred by some traditions (Rousseau, American transcendentalism) or a mere decorum for <a href="https://en.wikipedia.org/wiki/Divine_providence">divine providence</a> or human history (Hegel, Marx). However, a <a href="https://en.wikipedia.org/wiki/Vitalist">vitalist</a> vision of nature, closer to the pre-Socratic one, got reborn at the same time, especially after Charles Darwin.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Geology and Wildlife</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Within the various uses of the word today, "nature" typically refers to geology and wildlife. Nature can refer to the general realm of <a href="https://en.wikipedia.org/wiki/Life">living beings</a>, and in some cases to the processes associated with inanimate objects—the way that particular types of things exist and change of their own accord, such as the weather and geology of the <a href="https://en.wikipedia.org/wiki/Earth">Earth</a>. It is often taken to mean the "natural environment" or wilderness—wild animals, rocks, forest, and in general, those things that have not been substantially altered by human intervention, or which persist despite human intervention. For example, manufactured objects and human interaction generally are not considered part of nature, unless qualified as, for example, "human nature" or "the whole of nature". </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>This more traditional concept of natural things that can still be found today implies a distinction between the natural and the artificial, with the artificial being understood as that which has been brought into being by a human <a href="https://en.wikipedia.org/wiki/Consciousness">consciousness</a> or a human <a href="https://en.wikipedia.org/wiki/Mind">mind</a>. Depending on the particular context, the term "natural" might also be distinguished from the <a href="https://en.wiktionary.org/wiki/unnatural">unnatural</a> or the <a href="https://en.wikipedia.org/wiki/Supernatural">supernatural</a>.<sup><a href="https://en.wikipedia.org/wiki/Nature#cite_note-What_does_nature_mean-2">[2]</a></sup></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>192</wp:post_id>
+		<wp:post_date><![CDATA[2024-09-18 09:04:13]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-09-18 09:04:13]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-09-18 09:11:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-18 09:11:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Hello world!]]></title>
 		<link>http://wordpress-67.local/?p=1</link>
 		<pubDate>Sat, 31 Aug 2024 10:06:52 +0000</pubDate>
@@ -1604,64 +1658,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
-					<item>
-		<title><![CDATA[Sample Page]]></title>
-		<link>http://wordpress-67.local/?page_id=2</link>
-		<pubDate>Sat, 31 Aug 2024 10:06:52 +0000</pubDate>
-		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="http://wordpress-67.local/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-31 10:06:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-31 10:06:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-16 15:08:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-16 15:08:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1726499332]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title><![CDATA[Privacy Policy]]></title>
 		<link>http://wordpress-67.local/?page_id=3</link>
@@ -2338,68 +2334,6 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="twentytwentyfour"><![CDATA[twentytwentyfour]]></category>
 						</item>
-					<item>
-		<title><![CDATA[Page no title]]></title>
-		<link>http://wordpress-67.local/page-no-title/</link>
-		<pubDate>Wed, 18 Sep 2024 09:04:13 +0000</pubDate>
-		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://wordpress-67.local/?page_id=192</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"categories":["header"],"patternName":"core/fullwidth-header-with-hero-image","name":"Fullwidth header with hero image"},"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a017-eberhard-cco-the-after-rain.jpg?w=1200\u0026amp;h=1200\u0026amp;fit=clip\u0026amp;crop=default\u0026amp;dpr=1\u0026amp;q=75\u0026amp;vib=3\u0026amp;con=3\u0026amp;usm=15\u0026amp;cs=srgb\u0026amp;bg=F4F4F3\u0026amp;ixlib=js-2.2.1\u0026amp;s=e7b4ca0a0edcc84ba48c1f7ebf02dd5a","id":61,"hasParallax":true,"dimRatio":20,"overlayColor":"accent-2","isUserOverlayColor":true,"minHeight":40,"minHeightUnit":"vw","contentPosition":"center right","align":"full","style":{"spacing":{"margin":{"top":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"x-large"} -->
-<div class="wp-block-cover alignfull has-parallax has-custom-content-position is-position-center-right has-contrast-color has-text-color has-link-color has-x-large-font-size" style="margin-top:0;min-height:40vw"><span aria-hidden="true" class="wp-block-cover__background has-accent-2-background-color has-background-dim-20 has-background-dim"></span><div class="wp-block-cover__image-background wp-image-61 has-parallax" style="background-position:50% 50%;background-image:url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/a017-eberhard-cco-the-after-rain.jpg?w=1200&amp;h=1200&amp;fit=clip&amp;crop=default&amp;dpr=1&amp;q=75&amp;vib=3&amp;con=3&amp;usm=15&amp;cs=srgb&amp;bg=F4F4F3&amp;ixlib=js-2.2.1&amp;s=e7b4ca0a0edcc84ba48c1f7ebf02dd5a)"></div><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"className":"is-style-default","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
-<p class="is-style-default has-contrast-color has-text-color has-link-color">Using the page no title template <br>you can start with a hero image to set<br>the emotional stage for your content</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:spacer {"height":"50px"} -->
-<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:heading {"level":1} -->
-<h1 class="wp-block-heading">What is Nature?</h1>
-<!-- /wp:heading --></div></div>
-<!-- /wp:cover --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p><strong>Nature</strong> is an inherent character or constitution,particularly of the ecosphere or the universe as a whole. In this general sense, nature refers to the laws, elements, and phenomena of the physical world, including life. Although humans are part of nature, human activity or humans as a whole are often described as at times at odds, or outright separate and even superior to nature.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>During the advent of modern scientific method in the last several centuries, nature became the passive reality, organized and moved by divine laws. With the Industrial Revolution, nature increasingly became considered the part of reality deprived of intentional intervention: it was hence considered as sacred by some traditions (Rousseau, American transcendentalism) or a mere decorum for <a href="https://en.wikipedia.org/wiki/Divine_providence">divine providence</a> or human history (Hegel, Marx). However, a <a href="https://en.wikipedia.org/wiki/Vitalist">vitalist</a> vision of nature, closer to the pre-Socratic one, got reborn at the same time, especially after Charles Darwin.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Geology and Wildlife</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Within the various uses of the word today, "nature" typically refers to geology and wildlife. Nature can refer to the general realm of <a href="https://en.wikipedia.org/wiki/Life">living beings</a>, and in some cases to the processes associated with inanimate objects—the way that particular types of things exist and change of their own accord, such as the weather and geology of the <a href="https://en.wikipedia.org/wiki/Earth">Earth</a>. It is often taken to mean the "natural environment" or wilderness—wild animals, rocks, forest, and in general, those things that have not been substantially altered by human intervention, or which persist despite human intervention. For example, manufactured objects and human interaction generally are not considered part of nature, unless qualified as, for example, "human nature" or "the whole of nature". </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>This more traditional concept of natural things that can still be found today implies a distinction between the natural and the artificial, with the artificial being understood as that which has been brought into being by a human <a href="https://en.wikipedia.org/wiki/Consciousness">consciousness</a> or a human <a href="https://en.wikipedia.org/wiki/Mind">mind</a>. Depending on the particular context, the term "natural" might also be distinguished from the <a href="https://en.wiktionary.org/wiki/unnatural">unnatural</a> or the <a href="https://en.wikipedia.org/wiki/Supernatural">supernatural</a>.<sup><a href="https://en.wikipedia.org/wiki/Nature#cite_note-What_does_nature_mean-2">[2]</a></sup></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>192</wp:post_id>
-		<wp:post_date><![CDATA[2024-09-18 09:04:13]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-09-18 09:04:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-18 09:11:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-18 09:11:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 				</channel>
 </rss>
 	
