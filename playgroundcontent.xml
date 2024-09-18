@@ -1443,20 +1443,21 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 		<dc:creator><![CDATA[birgit]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/navigation/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":80,"url":"http://wordpress-67.local/","kind":"post-type"} /-->
+		<content:encoded>
+		<![CDATA[<!-- wp:navigation-link {"label":"Home","type":"page","id":80,"url":"/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"News","type":"page","id":26,"url":"http://wordpress-67.local/news/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"News","type":"page","id":26,"url":"/news/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"About Us","type":"page","id":28,"url":"http://wordpress-67.local/about-us/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"About Us","type":"page","id":28,"url":"/about-us/","kind":"post-type"} /-->
 
-<!-- wp:navigation-submenu {"label":"Patterns","type":"page","id":32,"url":"http://wordpress-67.local/patterns/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Blocks","type":"page","id":52,"url":"http://wordpress-67.local/blocks/","kind":"post-type"} /-->
+<!-- wp:navigation-submenu {"label":"Patterns","type":"page","id":32,"url":"/patterns/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Blocks","type":"page","id":52,"url":"/blocks/","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->
 
-<!-- wp:navigation-submenu {"label":"Templates","type":"page","id":63,"url":"http://wordpress-67.local/templates/","kind":"post-type"} -->
-<!-- wp:navigation-link {"label":"Single Page layout","type":"page","id":65,"url":"http://wordpress-67.local/templates/single-page-layout/","kind":"post-type"} /-->
+<!-- wp:navigation-submenu {"label":"Templates","type":"page","id":63,"url":"/templates/","kind":"post-type"} -->
+<!-- wp:navigation-link {"label":"Single Page layout","type":"page","id":65,"url":"/templates/single-page-layout/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Single Post Template","type":"page","id":74,"url":"http://wordpress-67.local/templates/single-post-template/","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Single Post Template","type":"page","id":74,"url":"/templates/single-post-template/","kind":"post-type"} /-->
 <!-- /wp:navigation-submenu -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>6</wp:post_id>
