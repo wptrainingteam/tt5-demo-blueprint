@@ -1673,11 +1673,11 @@ Commenter avatars come from <a href="https://en.gravatar.com/">Gravatar</a>.]]><
 
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
-<li>a <a href="http://wordpress-67.local/templates/single-page-layout/" data-type="page" data-id="65">single page template</a>, showing the single page layout</li>
+<li>a <a href="/templates/single-page-layout/" data-type="page" data-id="65">single page template</a>, showing the single page layout</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>a <a href="http://wordpress-67.local/page-no-title/" data-type="page" data-id="192">page  no title template</a> that allows for a Hero image or a Cover block directly on the top of the page. </li>
+<li>a <a href="/page-no-title/" data-type="page" data-id="192">page  no title template</a> that allows for a Hero image or a Cover block directly on the top of the page. </li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
