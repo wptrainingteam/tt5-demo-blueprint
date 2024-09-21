@@ -3,6 +3,7 @@
   "features": {
 		"networking": true
 	},
+  "plugins": ["gutenberg","block-visibility"],
   "steps": [
     {
 			  "step": "login"
