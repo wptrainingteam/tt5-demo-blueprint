@@ -1,9 +1,9 @@
 {
   "landingPage": "/",
   "features": {
-		"networking": true
-	},
- 
+    "networking": true
+  },
+  "plugins": ["block-visibility","public-post-preview"],
   "steps": [
     {
 			  "step": "login"
