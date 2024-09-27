@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2024-09-27 15:03" -->
+	<!-- generator="WordPress/6.6.2" created="2024-09-27 14:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Theme Demo, v2</title>
 	<link>http://theme-demo-v2.local</link>
 	<description></description>
-	<pubDate>Fri, 27 Sep 2024 15:03:12 +0000</pubDate>
+	<pubDate>Fri, 27 Sep 2024 14:27:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://theme-demo-v2.local</wp:base_site_url>
@@ -1045,8 +1045,8 @@
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 14:10:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-27 14:10:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 15:02:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 15:02:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-27 14:10:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-27 14:10:23]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[rooftop-art-in-torino-italy]]></wp:post_name>
@@ -1056,14 +1056,10 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="europe"><![CDATA[Europe]]></category>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[19]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1113,8 +1109,8 @@
 		<wp:post_id>26</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 14:10:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-27 14:10:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 15:02:56]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 15:02:56]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-27 14:10:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-27 14:10:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[tidal-coastal-tour-in-british-columbia]]></wp:post_name>
@@ -1124,14 +1120,10 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="canada"><![CDATA[Canada]]></category>
+										<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[20]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1336,7 +1328,7 @@
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Sample Blocks]]></title>
+		<title><![CDATA[Sample Block]]></title>
 		<link>http://theme-demo-v2.local/patterns/sample-block/</link>
 		<pubDate>Fri, 27 Sep 2024 14:23:50 +0000</pubDate>
 		<dc:creator><![CDATA[birgit]]></dc:creator>
@@ -1521,8 +1513,8 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 14:23:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-27 14:23:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 14:39:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 14:39:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-27 14:23:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-27 14:23:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-block]]></wp:post_name>
