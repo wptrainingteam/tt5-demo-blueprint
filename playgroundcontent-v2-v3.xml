@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2024-09-27 16:51" -->
+	<!-- generator="WordPress/6.6.2" created="2024-09-27 15:59" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Theme Demo, v2</title>
 	<link>http://theme-demo-v2.local</link>
 	<description></description>
-	<pubDate>Fri, 27 Sep 2024 16:51:35 +0000</pubDate>
+	<pubDate>Fri, 27 Sep 2024 15:59:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://theme-demo-v2.local</wp:base_site_url>
@@ -72,13 +72,6 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Europe]]></wp:term_name>
 		<wp:term_description><![CDATA[Explore the place of history and modern lives in the land of our ancestors, going back to the antique times.]]></wp:term_description>
-	</wp:term>
-		<wp:term>
-		<wp:term_id>6</wp:term_id>
-		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
-		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
-		<wp:term_parent><![CDATA[]]></wp:term_parent>
-		<wp:term_name><![CDATA[footer]]></wp:term_name>
 	</wp:term>
 		<wp:term>
 		<wp:term_id>5</wp:term_id>
@@ -127,7 +120,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/8.jpg]]></wp:meta_value>
@@ -259,7 +252,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[http://https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-2.jpeg]]></wp:meta_value>
@@ -660,8 +653,8 @@
 <p class="has-text-align-left has-manrope-font-family" style="font-size:120px;font-style:normal;font-weight:700;letter-spacing:-2px;line-height:0.9;text-transform:uppercase"><a href="/category/canada">canada</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"lightbox":{"enabled":false},"id":20,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/Tofino-BC02024-web-1024x576.jpg" alt="" class="wp-image-20"/></figure>
+<!-- wp:image {"lightbox":{"enabled":false},"id":137,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="category/canada"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Tofino-BC02024-web-1024x576.jpg" alt="" class="wp-image-137"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div></div>
@@ -680,8 +673,8 @@
 <p class="has-text-align-left has-manrope-font-family" style="font-size:120px;font-style:normal;font-weight:700;letter-spacing:-2px;line-height:0.9;text-transform:uppercase"><a href="/category/europe">Europe</a></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"lightbox":{"enabled":false},"id":19,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="Rooftop Art in Torino, Italy" class="wp-image-19"/></figure>
+<!-- wp:image {"lightbox":{"enabled":false},"id":23,"sizeSlug":"large","linkDestination":"custom"} -->
+<figure class="wp-block-image size-large"><a href="/category/europe"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="Rooftop art in Torino, Italy" class="wp-image-23"/></a></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div></div>
@@ -788,8 +781,8 @@
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 14:18:21]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-27 14:18:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 16:33:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 16:33:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-27 14:18:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-27 14:18:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[31-2]]></wp:post_name>
@@ -1148,13 +1141,13 @@
 		<dc:creator><![CDATA[birgit]]></dc:creator>
 		<guid isPermaLink="false">http://theme-demo-v2.local/wp-global-styles-twentytwentyfive-trunk/</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"styles":{"blocks":{"core\/button":{"spacing":{"padding":{"bottom":"4px","left":"14px","right":"14px","top":"4px"}},"typography":{"fontSize":"var(--wp--preset--font-size--medium)","letterSpacing":"0px","textTransform":"uppercase"},"variations":{"outline":{"spacing":{"padding":{"bottom":"4px","left":"14px","right":"14px","top":"4px"}},"border":{"color":"currentColor"}}}},"core\/code":{"typography":{"fontSize":"var(--wp--preset--font-size--medium)"}},"core\/navigation":{"typography":{"fontSize":"var(--wp--preset--font-size--large)","letterSpacing":"0px","textTransform":"uppercase"}},"core\/post-author":{"typography":{"fontSize":"var(--wp--preset--font-size--small)"}},"core\/post-author-name":{"typography":{"fontSize":"var(--wp--preset--font-size--small)"}},"core\/post-terms":{"typography":{"fontStyle":"normal","fontWeight":"400","letterSpacing":"0px"}},"core\/pullquote":{"typography":{"fontFamily":"var(--wp--preset--font-family--roboto-slab)","fontSize":"var(--wp--preset--font-size--x-large)","fontStyle":"normal","fontWeight":"200","letterSpacing":"-0.76px","lineHeight":"1.2"}},"core\/search":{"typography":{"fontSize":"var(--wp--preset--font-size--medium)","textTransform":"uppercase"}},"core\/site-tagline":{"typography":{"fontSize":"var(--wp--preset--font-size--large)"}},"core\/site-title":{"typography":{"fontFamily":"var(--wp--preset--font-family--manrope)","fontStyle":"normal","fontWeight":"500","letterSpacing":"0px","textTransform":"uppercase"}},"core\/column":{"variations":{"section-1":{"color":{"text":"var(--wp--preset--color--base)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--base)"}}}}}},"core\/columns":{"variations":{"section-1":{"color":{"text":"var(--wp--preset--color--base)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--base)"}}}}}},"core\/group":{"variations":{"section-1":{"color":{"text":"var(--wp--preset--color--base)"},"elements":{"link":{"color":{"text":"var(--wp--preset--color--base)"}}}}}}},"elements":{"button":{"color":{"background":"var(--wp--preset--color--contrast)","text":"var(--wp--preset--color--base)"},":hover":{"color":{"background":"var(--wp--preset--color--base)","text":"var(--wp--preset--color--contrast)"},"border":{"color":"currentColor"}}},"h4":{"typography":{"fontStyle":"normal","fontWeight":"300","letterSpacing":"-0.5px"}},"h5":{"typography":{"fontStyle":"normal","fontWeight":"400","letterSpacing":"0px"}},"h6":{"typography":{"fontStyle":"normal","fontWeight":"400","letterSpacing":"1px","textTransform":"uppercase"}},"heading":{"typography":{"fontFamily":"var(--wp--preset--font-family--roboto-slab)","fontStyle":"normal","fontWeight":"200","letterSpacing":"-0.5px","lineHeight":"1.2"}}},"typography":{"fontStyle":"normal","fontWeight":"300","lineHeight":"1.3"}},"settings":{"color":{"palette":{"theme":[{"color":"#131313","name":"Base","slug":"base"},{"color":"#FFFFFF","name":"Contrast","slug":"contrast"},{"color":"#4B52FF","name":"Accent 1","slug":"accent-1"},{"color":"#FF7A5C","name":"Accent 2","slug":"accent-2"},{"color":"#252525","name":"Accent 3","slug":"accent-3"},{"color":"#FFFFFF","name":"Accent 4","slug":"accent-4"},{"color":"#252525","name":"Accent 5","slug":"accent-5"},{"color":"#FFFFFF33","name":"Accent 6","slug":"accent-6"}]}}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
+		<content:encoded><![CDATA[{"version": 3, "isGlobalStylesUserThemeJSON": true }]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>32</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 14:14:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-27 14:14:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 16:34:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 16:34:20]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-27 14:14:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-27 14:14:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive-trunk]]></wp:post_name>
@@ -1854,129 +1847,6 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 														<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[15]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Navigation 2]]></title>
-		<link>http://theme-demo-v2.local/navigation-2/</link>
-		<pubDate>Fri, 27 Sep 2024 16:50:52 +0000</pubDate>
-		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://theme-demo-v2.local/?p=55</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Patterns","type":"page","id":41,"url":"http://theme-demo-v2.local/patterns/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"Templates","type":"page","id":47,"url":"http://theme-demo-v2.local/templates/","kind":"post-type"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2024-09-27 16:50:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-09-27 16:50:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 16:50:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 16:50:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation-2]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Navigation 3]]></title>
-		<link>http://theme-demo-v2.local/navigation-3/</link>
-		<pubDate>Fri, 27 Sep 2024 16:50:52 +0000</pubDate>
-		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://theme-demo-v2.local/?p=56</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Blog","type":"page","id":36,"url":"http://theme-demo-v2.local/news/","kind":"post-type"} /-->
-
-<!-- wp:navigation-link {"label":"About","type":"page","id":34,"url":"http://theme-demo-v2.local/about-us/","kind":"post-type"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2024-09-27 16:50:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-09-27 16:50:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 16:50:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 16:50:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation-3]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Footer]]></title>
-		<link>http://theme-demo-v2.local/footer/</link>
-		<pubDate>Fri, 27 Sep 2024 16:50:52 +0000</pubDate>
-		<dc:creator><![CDATA[birgit]]></dc:creator>
-		<guid isPermaLink="false">http://theme-demo-v2.local/footer/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
-<div class="wp-block-group alignwide"><!-- wp:site-logo /-->
-
-<!-- wp:group {"align":"full","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
-<div class="wp-block-group alignfull"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
-<div class="wp-block-column" style="flex-basis:100%"><!-- wp:site-title {"level":2} /-->
-
-<!-- wp:site-tagline /--></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":""} -->
-<div class="wp-block-column"><!-- wp:spacer {"height":"var:preset|spacing|40","width":"0px"} -->
-<div style="height:var(--wp--preset--spacing--40);width:0px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|80"}},"layout":{"type":"flex","flexWrap":"wrap","verticalAlignment":"top","justifyContent":"space-between"}} -->
-<div class="wp-block-group"><!-- wp:navigation {"ref":56,"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} /-->
-
-<!-- wp:navigation {"ref":55,"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} /--></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->
-
-<!-- wp:spacer {"height":"var:preset|spacing|70"} -->
-<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
-<div class="wp-block-group alignfull"><!-- wp:paragraph {"metadata":{"bindings":{"content":{"source":"twentytwentyfive/copyright"}}},"fontSize":"small"} -->
-<p class="has-small-font-size"></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"fontSize":"small"} -->
-<p class="has-small-font-size">
-				Designed with <a href="https://wordpress.org" rel="nofollow">WordPress</a>			</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>58</wp:post_id>
-		<wp:post_date><![CDATA[2024-09-27 16:50:52]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-09-27 16:50:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 16:50:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 16:50:52]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
-		<category domain="wp_theme" nicename="twentytwentyfive-trunk"><![CDATA[twentytwentyfive-trunk]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
