@@ -1456,7 +1456,7 @@
 <p>Media + Text Block</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:media-text {"align":"wide","mediaId":7,"mediaLink":"http://theme-demo-v2.local/image-1/","mediaType":"image","imageFill":true,"className":"is-image-fill-element","backgroundColor":"secondary"} -->
+<!-- wp:media-text {"align":"wide","mediaId":7,"mediaLink":"https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1/","mediaType":"image","imageFill":true,"className":"is-image-fill-element","backgroundColor":"secondary"} -->
 <div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill is-image-fill-element has-secondary-background-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(http://theme-demo-v2.local/wp-content/uploads/2024/09/image-1-768x1024.jpeg);background-position:50% 50%"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/image-1-768x1024.jpeg" alt="" class="wp-image-7 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
 <p>Actualize the plan and markets. Going forward, we should harness the asset. Leverage skill sets to achieve maximum market share. Actualize the key action and markets. Going forward, we should leverage the asset. Harness the plan and vertical markets. Going forward, we should leverage the asset. Harness the key action and skill sets. Going forward, we should actualize the asset. Harness vertical markets to achieve the best targets. Going forward, we should leverage the plan. Harness the asset and skill sets.</p>
 <!-- /wp:paragraph --></div></div>
@@ -1505,7 +1505,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":6} -->
-<figure class="wp-block-audio"><audio controls src="http://theme-demo-v2.local/wp-content/uploads/2024/09/428075__bolkmar__river-flowing-binaural-nature-sound.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/428075__bolkmar__river-flowing-binaural-nature-sound.wav"></audio></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
