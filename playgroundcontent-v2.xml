@@ -1560,8 +1560,8 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<dc:creator><![CDATA[birgit]]></dc:creator>
 		<guid isPermaLink="false">http://theme-demo-v2.local/?page_id=45</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://wordpress-67.local/wp-content/uploads/2024/09/image.jpeg","id":34,"dimRatio":20,"overlayColor":"black","isUserOverlayColor":true,"minHeight":832,"minHeightUnit":"px","contentPosition":"bottom center","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50);min-height:832px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-20 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-34" alt="" src="http://wordpress-67.local/wp-content/uploads/2024/09/image.jpeg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained","justifyContent":"left","contentSize":"718px","wideSize":"1340px"}} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.jpeg","id":34,"dimRatio":20,"overlayColor":"black","isUserOverlayColor":true,"minHeight":832,"minHeightUnit":"px","contentPosition":"bottom center","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50);min-height:832px"><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-20 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-34" alt="" src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.jpeg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained","justifyContent":"left","contentSize":"718px","wideSize":"1340px"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"left","level":1} -->
 <h1 class="wp-block-heading has-text-align-left">Tell your story</h1>
 <!-- /wp:heading -->
@@ -1593,7 +1593,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 
 <!-- wp:column {"verticalAlignment":"center","width":"50%","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":209,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-3.webp" alt="" class="wp-image-209" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-3.webp" alt="" class="wp-image-209" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -1692,12 +1692,12 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 <!-- /wp:group -->
 
 <!-- wp:image {"id":210,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-4.webp" alt="" class="wp-image-210" style="aspect-ratio:16/9;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-4.webp" alt="" class="wp-image-210" style="aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
 <!-- wp:image {"id":211,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-5.webp" alt="" class="wp-image-211" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-5.webp" alt="" class="wp-image-211" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -1868,9 +1868,9 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<dc:creator><![CDATA[birgit]]></dc:creator>
 		<guid isPermaLink="false">http://theme-demo-v2.local/?p=55</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Patterns","type":"page","id":41,"url":"http://theme-demo-v2.local/patterns/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Patterns","type":"page","id":41,"url":"/patterns/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Templates","type":"page","id":47,"url":"http://theme-demo-v2.local/templates/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"Templates","type":"page","id":47,"url":"/templates/","kind":"post-type"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 16:50:52]]></wp:post_date>
@@ -1894,9 +1894,9 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<dc:creator><![CDATA[birgit]]></dc:creator>
 		<guid isPermaLink="false">http://theme-demo-v2.local/?p=56</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Blog","type":"page","id":36,"url":"http://theme-demo-v2.local/news/","kind":"post-type"} /-->
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Blog","type":"page","id":36,"url":"/news/","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"About","type":"page","id":34,"url":"http://theme-demo-v2.local/about-us/","kind":"post-type"} /-->]]></content:encoded>
+<!-- wp:navigation-link {"label":"About","type":"page","id":34,"url":"/about-us/","kind":"post-type"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>56</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 16:50:52]]></wp:post_date>
