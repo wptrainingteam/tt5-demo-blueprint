@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6.2" created="2024-09-28 09:33" -->
+	<!-- generator="WordPress/6.6.2" created="2024-09-27 17:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Theme Demo, v2</title>
 	<link>http://theme-demo-v2.local</link>
 	<description></description>
-	<pubDate>Sat, 28 Sep 2024 09:33:04 +0000</pubDate>
+	<pubDate>Fri, 27 Sep 2024 17:23:50 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://theme-demo-v2.local</wp:base_site_url>
@@ -134,7 +134,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/8.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/8.jpg]]></wp:meta_value>
@@ -156,8 +156,8 @@
 		<wp:post_id>6</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 14:07:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-27 14:07:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 17:36:23]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 17:36:23]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-27 14:07:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-27 14:07:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[428075__bolkmar__river-flowing-binaural-nature-sound]]></wp:post_name>
@@ -167,14 +167,14 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/428075__bolkmar__river-flowing-binaural-nature-sound.wav]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/428075__bolkmar__river-flowing-binaural-nature-sound.wav]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/428075__bolkmar__river-flowing-binaural-nature-sound.wav]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:18:{s:10:"dataformat";s:3:"wav";s:12:"bitrate_mode";s:3:"cbr";s:10:"wformattag";i:1;s:5:"codec";s:27:"Pulse Code Modulation (PCM)";s:8:"channels";i:2;s:11:"sample_rate";i:48000;s:7:"bitrate";i:2304000;s:15:"bits_per_sample";i:24;s:8:"lossless";b:1;s:11:"channelmode";s:6:"stereo";s:17:"compression_ratio";i:1;s:10:"fileformat";s:3:"wav";s:8:"filesize";i:1979658;s:9:"mime_type";s:9:"audio/wav";s:6:"length";i:7;s:16:"length_formatted";s:4:"0:07";s:6:"artist";s:0:"";s:5:"album";s:0:"";}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:16:{s:10:"dataformat";s:3:"wav";s:12:"bitrate_mode";s:3:"cbr";s:10:"wformattag";i:1;s:5:"codec";s:27:"Pulse Code Modulation (PCM)";s:8:"channels";i:2;s:11:"sample_rate";i:48000;s:7:"bitrate";i:2304000;s:15:"bits_per_sample";i:24;s:8:"lossless";b:1;s:11:"channelmode";s:6:"stereo";s:17:"compression_ratio";i:1;s:10:"fileformat";s:3:"wav";s:8:"filesize";i:1979658;s:9:"mime_type";s:9:"audio/wav";s:6:"length";i:7;s:16:"length_formatted";s:4:"0:07";}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -200,7 +200,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image-1.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-1.jpeg]]></wp:meta_value>
@@ -233,7 +233,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image-1.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-1.webp]]></wp:meta_value>
@@ -266,7 +266,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image-2.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-2.jpeg]]></wp:meta_value>
@@ -299,7 +299,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image-2.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-2.webp]]></wp:meta_value>
@@ -332,7 +332,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image-3.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-3.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-3.webp]]></wp:meta_value>
@@ -365,7 +365,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image-4.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-4.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-4.webp]]></wp:meta_value>
@@ -398,7 +398,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image-5.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-5.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-5.webp]]></wp:meta_value>
@@ -431,7 +431,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image-old-map.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-old-map.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image-old-map.jpg]]></wp:meta_value>
@@ -464,7 +464,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image.jpeg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.jpeg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image.jpeg]]></wp:meta_value>
@@ -497,7 +497,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/image.webp]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.webp]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/image.webp]]></wp:meta_value>
@@ -530,7 +530,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/Munich-Marstall-web.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall-web.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Munich-Marstall-web.jpg]]></wp:meta_value>
@@ -563,7 +563,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/random-headshot-1.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/random-headshot-1.jpg]]></wp:meta_value>
@@ -596,7 +596,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Rooftop-Art-Torino-Italy.jpg]]></wp:meta_value>
@@ -633,7 +633,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[http://theme-demo-v2.local/wp-content/uploads/2024/09/Tofino-BC02024-web.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Tofino-BC02024-web.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/09/Tofino-BC02024-web.jpg]]></wp:meta_value>
@@ -1216,22 +1216,22 @@
 <div style="height:2vw" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:image {"id":9,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/image-2-766x1024.jpeg" alt="" class="wp-image-9"/></figure>
+<!-- wp:image {"id":36,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-2.jpeg" alt="The sun setting through a dense forest." class="wp-image-36"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.62%"} -->
-<div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":7,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/image-1-768x1024.jpeg" alt="" class="wp-image-7"/></figure>
+<div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":35,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-1.jpeg" alt="Wind turbines standing on a grassy plain, against a blue sky." class="wp-image-35"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
 
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"3vw"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"69%"} -->
-<div class="wp-block-column" style="flex-basis:69%"><!-- wp:image {"id":15,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/image.jpeg" alt="" class="wp-image-15"/></figure>
+<div class="wp-block-column" style="flex-basis:69%"><!-- wp:image {"id":34,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image.jpeg" alt="The sun shining over a ridge leading down into the shore. In the distance, a car drives down a road." class="wp-image-34"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -1311,8 +1311,8 @@
 <!-- /wp:column -->
 
 <!-- wp:column {"verticalAlignment":"top","width":"40%"} -->
-<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:40%"><!-- wp:image {"id":14,"sizeSlug":"full","linkDestination":"none","className":"wp-block-image size-large is-style-default"} -->
-<figure class="wp-block-image size-full size-large is-style-default"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/image-old-map.jpg" alt="" class="wp-image-14"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<div class="wp-block-column is-vertically-aligned-top" style="flex-basis:40%"><!-- wp:image {"id":136,"sizeSlug":"full","linkDestination":"none","className":"wp-block-image size-large is-style-default"} -->
+<figure class="wp-block-image size-full size-large is-style-default"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-old-map.jpg" alt="" class="wp-image-136"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -1337,8 +1337,8 @@
 		<wp:post_id>41</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 14:23:06]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-27 14:23:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 17:34:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 17:34:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-27 14:23:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-27 14:23:06]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[patterns]]></wp:post_name>
@@ -1378,29 +1378,29 @@
 <p>Images &amp; Gallery</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":17,"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/Munich-Marstall-web-1024x562.jpg" alt="" class="wp-image-17"/><figcaption class="wp-element-caption">Image block, default</figcaption></figure>
+<!-- wp:image {"id":138,"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
+<figure class="wp-block-image size-large is-style-default"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Munich-Marstall-web-1024x562.jpg" alt="" class="wp-image-138"/><figcaption class="wp-element-caption">Image block, default</figcaption></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":5,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/8-1024x585.jpg" alt="" class="wp-image-5"/><figcaption class="wp-element-caption">IImage Block, rounded</figcaption></figure>
+<!-- wp:image {"id":134,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
+<figure class="wp-block-image size-large is-style-rounded"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/8-1024x585.jpg" alt="" class="wp-image-134"/><figcaption class="wp-element-caption">IImage Block, rounded</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:gallery {"linkTo":"none","className":"has-border-color has-accent-3-border-color","style":{"border":{"style":"solid","width":"1px"}}} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped has-border-color has-accent-3-border-color" style="border-style:solid;border-width:1px"><!-- wp:image {"id":17,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/Munich-Marstall-web-1024x562.jpg" alt="" class="wp-image-17"/><figcaption class="wp-element-caption">Munic Marstall</figcaption></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped has-border-color has-accent-3-border-color" style="border-style:solid;border-width:1px"><!-- wp:image {"id":138,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Munich-Marstall-web-1024x562.jpg" alt="" class="wp-image-138"/><figcaption class="wp-element-caption">Munic Marstall</figcaption></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":5,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/8-1024x585.jpg" alt="" class="wp-image-5"/><figcaption class="wp-element-caption">Phantasie Town</figcaption></figure>
+<!-- wp:image {"id":134,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/8-1024x585.jpg" alt="" class="wp-image-134"/><figcaption class="wp-element-caption">Phantasie Town</figcaption></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":20,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/Tofino-BC02024-web-1024x576.jpg" alt="" class="wp-image-20"/><figcaption class="wp-element-caption">Tofino</figcaption></figure>
+<!-- wp:image {"id":137,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Tofino-BC02024-web-1024x576.jpg" alt="" class="wp-image-137"/><figcaption class="wp-element-caption">Tofino</figcaption></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":19,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="Rooftop Art in Torino, Italy" class="wp-image-19"/><figcaption class="wp-element-caption">Rooftop Art</figcaption></figure>
+<!-- wp:image {"id":23,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="Rooftop art in Torino, Italy" class="wp-image-23"/><figcaption class="wp-element-caption">Rooftop Art</figcaption></figure>
 <!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption">Gallery block caption</figcaption></figure>
 <!-- /wp:gallery -->
 
@@ -1438,8 +1438,8 @@
 <p>Cover Block</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"http://theme-demo-v2.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy.jpg","id":19,"alt":"Rooftop Art in Torino, Italy","dimRatio":50,"customOverlayColor":"#8593a2","isUserOverlayColor":true,"minHeight":430,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"align":"wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignwide is-light" style="min-height:430px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#8593a2"></span><img class="wp-block-cover__image-background wp-image-19" alt="Rooftop Art in Torino, Italy" src="http://theme-demo-v2.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"right","orientation":"vertical"}} -->
+<!-- wp:cover {"url":"http://wordpress-67.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy.jpg","id":23,"alt":"Rooftop art in Torino, Italy","dimRatio":50,"customOverlayColor":"#8593a2","isUserOverlayColor":true,"minHeight":430,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignwide is-light" style="min-height:430px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#8593a2"></span><img class="wp-block-cover__image-background wp-image-23" alt="Rooftop art in Torino, Italy" src="http://wordpress-67.local/wp-content/uploads/2024/09/Rooftop-Art-Torino-Italy.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"right","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"right","placeholder":"Write title…","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"textColor":"base","fontSize":"x-large"} -->
 <p class="has-text-align-right has-base-color has-text-color has-link-color has-x-large-font-size"><strong>We write on the right <br>side of the sculpture</strong></p>
 <!-- /wp:paragraph -->
@@ -1456,10 +1456,12 @@
 <p>Media + Text Block</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:media-text {"align":"wide","mediaId":7,"mediaLink":"http://theme-demo-v2.local/image-1/","mediaType":"image","imageFill":true,"className":"is-image-fill-element","backgroundColor":"secondary"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill is-image-fill-element has-secondary-background-color has-background"><figure class="wp-block-media-text__media" style="background-image:url(http://theme-demo-v2.local/wp-content/uploads/2024/09/image-1-768x1024.jpeg);background-position:50% 50%"><img src="http://theme-demo-v2.local/wp-content/uploads/2024/09/image-1-768x1024.jpeg" alt="" class="wp-image-7 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<!-- wp:media-text {"align":"wide","mediaId":35,"mediaLink":"http://wordpress-67.local/patterns/image-3/","mediaType":"image","imageFill":true,"focalPoint":{"x":0.99,"y":0.49},"backgroundColor":"secondary"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill-element has-secondary-background-color has-background"><figure class="wp-block-media-text__media"><img src="http://wordpress-67.local/wp-content/uploads/2024/09/image-1-768x1024.jpeg" alt="" class="wp-image-35 size-full" style="object-position:99% 49%"/></figure><div class="wp-block-media-text__content">
+<!-- wp:paragraph {"placeholder":"Content…"} -->
 <p>Actualize the plan and markets. Going forward, we should harness the asset. Leverage skill sets to achieve maximum market share. Actualize the key action and markets. Going forward, we should leverage the asset. Harness the plan and vertical markets. Going forward, we should leverage the asset. Harness the key action and skill sets. Going forward, we should actualize the asset. Harness vertical markets to achieve the best targets. Going forward, we should leverage the plan. Harness the asset and skill sets.</p>
-<!-- /wp:paragraph --></div></div>
+<!-- /wp:paragraph -->
+</div></div>
 <!-- /wp:media-text -->
 
 <!-- wp:spacer {"height":"50px"} -->
@@ -1504,8 +1506,8 @@
 <p>Audio </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:audio {"id":6} -->
-<figure class="wp-block-audio"><audio controls src="http://theme-demo-v2.local/wp-content/uploads/2024/09/428075__bolkmar__river-flowing-binaural-nature-sound.wav"></audio></figure>
+<!-- wp:audio {"id":171} -->
+<figure class="wp-block-audio"><audio controls src="http://wordpress-67.local/wp-content/uploads/2024/09/428075__bolkmar__river-flowing-binaural-nature-sound.wav"></audio></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
@@ -1533,8 +1535,8 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-27 14:23:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-27 14:23:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-09-27 17:36:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-09-27 17:36:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-09-27 14:39:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-27 14:39:41]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sample-block]]></wp:post_name>
@@ -1550,7 +1552,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_0c8e1b4aebd9a39f9031af32df336da5]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1727458550]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1727447030]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
