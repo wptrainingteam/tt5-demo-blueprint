@@ -1,5 +1,8 @@
 {
   "landingPage": "/",
+  "preferredVersions": {
+    "wp":"beta"
+  },
   "features": {
     "networking": true
   },
