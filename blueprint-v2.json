@@ -1,7 +1,7 @@
 {
   "landingPage": "/",
   "preferredVersions": {
-    "wp":"nightly"
+    "wp":"beta"
   },
   "features": {
     "networking": true
