@@ -53,7 +53,8 @@
 			"file": {
 				"resource": "url",
 				"url": "https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/playgroundcontent-v2.xml"
-			}
+			},
+      "importer": "data-liberation"
     }
   ]
 }
