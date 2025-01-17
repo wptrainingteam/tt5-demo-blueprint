@@ -23,11 +23,11 @@
       "userId": 1
     },
     
-    {
+      {
         "step": "installTheme",
         "themeZipFile": {
-            "resource": "url",
-            "url": "https://github-proxy.com/proxy/?repo=WordPress/twentytwentyfive&branch=trunk"
+            "resource": "wordpress.org/themes",
+            "slug": "twentytwentyfive"
         },
         "options": {
             "activate": true
@@ -53,8 +53,7 @@
 			"file": {
 				"resource": "url",
 				"url": "https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/playgroundcontent-v2.xml"
-			},
-      "importer": "data-liberation"
+			}
     }
   ]
 }

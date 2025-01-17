@@ -9,3 +9,8 @@ I tried now a second version of content.
 
 [Click here to test content-v2](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/blueprint-v2.json)
 It's a work in progress and in active development. 
+
+[Click here to test content-v3](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/blueprint-v3.json)
+- It's a work in progress and in active development. 
+- The import file was not changed from the Export script. 
+- the blueprint uses the importer of the ``data-liberation`` option. 
