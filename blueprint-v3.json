@@ -22,7 +22,14 @@
       },
       "userId": 1
     },
-    
+    {
+      "step": "importWxr",
+			"file": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/playground-content-v3.xml"
+			},
+      "importer": "data-liberation"
+    },
       {
         "step": "installTheme",
         "themeZipFile": {
@@ -47,14 +54,6 @@
 		    "page_on_front": 31,
 		    "page_for_posts": 36
       }
-    },
-    {
-      "step": "importWxr",
-			"file": {
-				"resource": "url",
-				"url": "https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/playground-content-v3.xml"
-			},
-      "importer": "data-liberation"
     }
   ]
 }
