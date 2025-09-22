@@ -3,11 +3,9 @@
   "features": {
     "networking": true
   },
-  "plugins": ["block-visibility","public-post-preview"],
+  "plugins": [ "block-visibility","public-post-preview", "gutenberg" ],
+  "login": true,
   "steps": [
-    {
-			  "step": "login"
-    },
     {
         "step": "wp-cli",
         "command": "wp site empty --yes"
@@ -19,7 +17,6 @@
       },
       "userId": 1
     },
-    
     {
         "step": "installTheme",
         "themeZipFile": {
@@ -31,10 +28,12 @@
         }
     },
     {
-			"step": "writeFile",
-			"path": "/wordpress/wp-content/mu-plugins/rewrite.php",
-			"data": "<?php add_action( 'after_setup_theme', function() { global $wp_rewrite; $wp_rewrite->set_permalink_structure('/%postname%/'); $wp_rewrite->flush_rules(); } );"
-		},
+      "step": "importWxr",
+			"file": {
+				"resource": "url",
+				"url": "https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/playground-content.xml"
+			}
+    },
     {
       "step": "setSiteOptions",
       "options": {
@@ -42,15 +41,9 @@
         "blogdescription": "A preview of the next WordPress default theme",
         "show_on_front": "page",
 		    "page_on_front": 80,
-		    "page_for_posts": 26
+		    "page_for_posts": 26,
+        "permalink_structure": "/%postname%/"
       }
-    },
-    {
-      "step": "importWxr",
-			"file": {
-				"resource": "url",
-				"url": "https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/playgroundcontent.xml"
-			}
     }
   ]
 }
