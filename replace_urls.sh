@@ -24,7 +24,11 @@ fi
 escaped_find=$(printf '%s\n' "$find_url" | sed 's/[\[\].*^$(){}?+|/\]/\\&/g')
 escaped_replace=$(printf '%s\n' "$replace_url" | sed 's/[\[\].*^$(){}?+|/\]/\\&/g')
 
-sed -i.bak "s|<wp:attachment_url>\($escaped_find\)|<wp:attachment_url>$escaped_replace|g" playground-content.xml
+# Count occurrences before replacement
+count_before=$(grep -o "<wp:attachment_url><!\[CDATA\[$escaped_find" playground-content.xml | wc -l)
+
+sed -i.bak "s|<wp:attachment_url><!\[CDATA\[\($escaped_find\)|<wp:attachment_url><![CDATA[$escaped_replace|g" playground-content.xml
 
 echo "URL replacement completed. Original file backed up as playground-content.xml.bak"
 echo "Replaced '$find_url' with '$replace_url'"
+echo "Number of replacements made: $count_before"
