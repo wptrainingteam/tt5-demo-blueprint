@@ -900,7 +900,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot-2025-01-21-at-17.47.54.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot 2025-09-23 at 09.50.38.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/09/Screenshot-2025-01-21-at-17.47.54.png]]></wp:meta_value>
