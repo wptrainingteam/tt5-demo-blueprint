@@ -20,13 +20,21 @@ else
     replace_url=${replace_url:-$default_replace}
 fi
 
-# Escape special characters for sed
-escaped_find=$(printf '%s\n' "$find_url" | sed 's/[\[\].*^$(){}?+|/\]/\\&/g')
-escaped_replace=$(printf '%s\n' "$replace_url" | sed 's/[\[\].*^$(){}?+|/\]/\\&/g')
+# Escape special characters for sed (using | as delimiter, so escape |)
+escaped_find=$(printf '%s\n' "$find_url" | sed 's/|/\\|/g')
+escaped_replace=$(printf '%s\n' "$replace_url" | sed 's/|/\\|/g')
 
 # Count occurrences before replacement
 count_before=$(grep -o "<wp:attachment_url><!\[CDATA\[$escaped_find" playground-content.xml | wc -l)
 
+# Show each line being replaced
+echo "Making replacements:"
+grep -n "<wp:attachment_url><!\[CDATA\[$escaped_find" playground-content.xml | while read -r line; do
+    line_num=$(echo "$line" | cut -d: -f1)
+    echo "Line $line_num: Found URL to replace"
+done
+
+# Apply the replacement
 sed -i.bak "s|<wp:attachment_url><!\[CDATA\[\($escaped_find\)|<wp:attachment_url><![CDATA[$escaped_replace|g" playground-content.xml
 
 echo "URL replacement completed. Original file backed up as playground-content.xml.bak"
