@@ -37,8 +37,8 @@
     {
       "step": "setSiteOptions",
       "options": {
-        "blogname": "Twenty-Twenty-Five",
-        "blogdescription": "A preview of the next WordPress default theme",
+        "blogname": "Theme Demo ",
+        "blogdescription": "A preview of a theme",
         "show_on_front": "page",
 		    "page_on_front": 80,
 		    "page_for_posts": 26,
