@@ -3,7 +3,7 @@
 This is the example code for the WordPress Developer article: How to build a Theme demo blueprint for WordPress Playground
 
  
-![Demo Content](/media/Screenshot%202025-09-23%20at%2009.50.38.png)
+![Demo Content](/media/screenshot-2025-09-23.png)
 
 ## Importer versions
 
