@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.2" created="2025-09-23 09:07" -->
+	<!-- generator="WordPress/6.8.2" created="2025-09-23 09:23" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Theme Demo Post</title>
 	<link>http://localhost:8881</link>
 	<description></description>
-	<pubDate>Tue, 23 Sep 2025 09:07:14 +0000</pubDate>
+	<pubDate>Tue, 23 Sep 2025 09:23:30 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8881</wp:base_site_url>
@@ -291,7 +291,7 @@
 <!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"right":"0","left":"0"},"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|30"}}}} -->
 <div class="wp-block-columns alignwide" style="padding-right:0;padding-left:0"><!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:image {"id":208,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":["#252525","#FFFFFF"]}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="http://localhost:8881/wp-content/uploads/2025/09/random-headshot-1.jpg" alt="" class="wp-image-208" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg" alt="" class="wp-image-208" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap","justifyContent":"center"}} -->
@@ -309,7 +309,7 @@
 
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:image {"id":208,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":["#4B52FF","#FF7A5C"]}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="http://localhost:8881/wp-content/uploads/2025/09/random-headshot-1.jpg" alt="" class="wp-image-208" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg" alt="" class="wp-image-208" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
@@ -327,7 +327,7 @@
 
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:image {"id":208,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":["#FF7A5C","#FFFFFF33"]}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="http://localhost:8881/wp-content/uploads/2025/09/random-headshot-1.jpg" alt="" class="wp-image-208" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg" alt="" class="wp-image-208" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
@@ -345,7 +345,7 @@
 
 <!-- wp:column {"layout":{"type":"default"}} -->
 <div class="wp-block-column"><!-- wp:image {"id":208,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"color":{"duotone":["#4B52FF","#FFFFFF"]}}} -->
-<figure class="wp-block-image size-full is-style-rounded"><img src="http://localhost:8881/wp-content/uploads/2025/09/random-headshot-1.jpg" alt="" class="wp-image-208" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg" alt="" class="wp-image-208" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|0"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"nowrap","justifyContent":"center"}} -->
@@ -387,7 +387,7 @@
 		<link>http://localhost:8881/?attachment_id=194</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/8.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -420,7 +420,7 @@
 		<link>http://localhost:8881/?attachment_id=195</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/428075__bolkmar__river-flowing-binaural-nature-sound.wav</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/428075__bolkmar__river-flowing-binaural-nature-sound.wav</guid>
 		<description></description>
 		<content:encoded><![CDATA["428075__bolkmar__river-flowing-binaural-nature-sound".]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -453,7 +453,7 @@
 		<link>http://localhost:8881/?attachment_id=196</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-1.jpeg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -486,7 +486,7 @@
 		<link>http://localhost:8881/?attachment_id=197</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-1.webp</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -519,7 +519,7 @@
 		<link>http://localhost:8881/?attachment_id=198</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-2.jpeg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -552,7 +552,7 @@
 		<link>http://localhost:8881/?attachment_id=199</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-2.webp</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -585,7 +585,7 @@
 		<link>http://localhost:8881/?attachment_id=200</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-3.webp</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-3.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -618,7 +618,7 @@
 		<link>http://localhost:8881/?attachment_id=201</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-4.webp</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-4.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -651,7 +651,7 @@
 		<link>http://localhost:8881/?attachment_id=202</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-5.webp</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-5.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -684,7 +684,7 @@
 		<link>http://localhost:8881/?attachment_id=203</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-old-map.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-old-map.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[Screenshot]]></excerpt:encoded>
@@ -717,7 +717,7 @@
 		<link>http://localhost:8881/?attachment_id=204</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image.jpeg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.jpeg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -750,7 +750,7 @@
 		<link>http://localhost:8881/?attachment_id=205</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image.webp</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.webp</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -783,7 +783,7 @@
 		<link>http://localhost:8881/?attachment_id=207</link>
 		<pubDate>Mon, 22 Sep 2025 16:30:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/Munich-Marstall-web.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall-web.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -816,7 +816,7 @@
 		<link>http://localhost:8881/?attachment_id=208</link>
 		<pubDate>Mon, 22 Sep 2025 16:30:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/random-headshot-1.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/random-headshot-1.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -849,7 +849,7 @@
 		<link>http://localhost:8881/?attachment_id=209</link>
 		<pubDate>Mon, 22 Sep 2025 16:30:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/Rooftop-Art-Torino-Italy.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -878,44 +878,11 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Screenshot 2025-01-21 at 17.47.54]]></title>
-		<link>http://localhost:8881/?attachment_id=210</link>
-		<pubDate>Mon, 22 Sep 2025 16:30:22 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/Screenshot-2025-01-21-at-17.47.54.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>210</wp:post_id>
-		<wp:post_date><![CDATA[2025-09-22 16:30:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2025-09-22 16:30:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-09-22 16:30:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-09-22 16:30:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[screenshot-2025-01-21-at-17-47-54]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot 2025-09-23 at 09.50.38.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2025/09/Screenshot-2025-01-21-at-17.47.54.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1661;s:6:"height";i:936;s:4:"file";s:45:"2025/09/Screenshot-2025-01-21-at-17.47.54.png";s:8:"filesize";i:771690;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:45:"Screenshot-2025-01-21-at-17.47.54-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:39116;}s:5:"large";a:5:{s:4:"file";s:46:"Screenshot-2025-01-21-at-17.47.54-1024x577.png";s:5:"width";i:1024;s:6:"height";i:577;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:297935;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"Screenshot-2025-01-21-at-17.47.54-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:18423;}s:12:"medium_large";a:5:{s:4:"file";s:45:"Screenshot-2025-01-21-at-17.47.54-768x433.png";s:5:"width";i:768;s:6:"height";i:433;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:182849;}s:9:"1536x1536";a:5:{s:4:"file";s:46:"Screenshot-2025-01-21-at-17.47.54-1536x866.png";s:5:"width";i:1536;s:6:"height";i:866;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:585881;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Tofino-BC02024-web]]></title>
 		<link>http://localhost:8881/?attachment_id=211</link>
 		<pubDate>Mon, 22 Sep 2025 16:30:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/Tofino-BC02024-web.jpg</guid>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Tofino-BC02024-web.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -933,7 +900,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/ßTofino-BC02024-web.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Tofino-BC02024-web.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/09/Tofino-BC02024-web.jpg]]></wp:meta_value>
@@ -941,6 +908,39 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:675;s:4:"file";s:30:"2025/09/Tofino-BC02024-web.jpg";s:8:"filesize";i:101491;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:30:"Tofino-BC02024-web-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13347;}s:5:"large";a:5:{s:4:"file";s:31:"Tofino-BC02024-web-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111387;}s:9:"thumbnail";a:5:{s:4:"file";s:30:"Tofino-BC02024-web-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6167;}s:12:"medium_large";a:5:{s:4:"file";s:30:"Tofino-BC02024-web-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68272;}}s:10:"image_meta";a:12:{s:8:"aperture";s:4:"1.85";s:6:"credit";s:0:"";s:6:"camera";s:11:"Pixel 7 Pro";s:7:"caption";s:0:"";s:17:"created_timestamp";s:10:"1723925972";s:9:"copyright";s:0:"";s:12:"focal_length";s:4:"6.81";s:3:"iso";s:2:"44";s:13:"shutter_speed";s:8:"0.003357";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Screenshot 2025-09-23 at 09.50.38]]></title>
+		<link>http://localhost:8881/?attachment_id=254</link>
+		<pubDate>Tue, 23 Sep 2025 09:22:42 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot-2025-09-23-at-09.50.38.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>254</wp:post_id>
+		<wp:post_date><![CDATA[2025-09-23 09:22:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-09-23 09:22:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-09-23 09:22:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-23 09:22:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[screenshot-2025-09-23-at-09-50-38]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot-2025-09-23-at-09.50.38.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/09/Screenshot-2025-09-23-at-09.50.38.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1041;s:6:"height";i:705;s:4:"file";s:45:"2025/09/Screenshot-2025-09-23-at-09.50.38.png";s:8:"filesize";i:395172;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:45:"Screenshot-2025-09-23-at-09.50.38-300x203.png";s:5:"width";i:300;s:6:"height";i:203;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:44322;}s:5:"large";a:5:{s:4:"file";s:46:"Screenshot-2025-09-23-at-09.50.38-1024x693.png";s:5:"width";i:1024;s:6:"height";i:693;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:336151;}s:9:"thumbnail";a:5:{s:4:"file";s:45:"Screenshot-2025-09-23-at-09.50.38-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:19718;}s:12:"medium_large";a:5:{s:4:"file";s:45:"Screenshot-2025-09-23-at-09.50.38-768x520.png";s:5:"width";i:768;s:6:"height";i:520;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:210201;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1325,13 +1325,13 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":199,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-2-1024x1024.webp" alt="" class="wp-image-199"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2-1024x1024.webp" alt="" class="wp-image-199"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"33.62%"} -->
 <div class="wp-block-column" style="flex-basis:33.62%"><!-- wp:image {"id":196,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-1-768x1024.jpeg" alt="" class="wp-image-196"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1-768x1024.jpeg" alt="" class="wp-image-196"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -1339,7 +1339,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"3vw"}}}} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"width":"69%"} -->
 <div class="wp-block-column" style="flex-basis:69%"><!-- wp:image {"id":204,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8881/wp-content/uploads/2025/09/image.jpeg" alt="" class="wp-image-204"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.jpeg" alt="" class="wp-image-204"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
@@ -1420,7 +1420,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 
 <!-- wp:column {"verticalAlignment":"top","width":"40%"} -->
 <div class="wp-block-column is-vertically-aligned-top" style="flex-basis:40%"><!-- wp:image {"id":203,"sizeSlug":"full","linkDestination":"none","className":"wp-block-image size-large is-style-default"} -->
-<figure class="wp-block-image size-full size-large is-style-default"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-old-map.jpg" alt="" class="wp-image-203"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-full size-large is-style-default"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-old-map.jpg" alt="" class="wp-image-203"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -1581,28 +1581,28 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":207,"sizeSlug":"large","linkDestination":"none","className":"is-style-default"} -->
-<figure class="wp-block-image size-large is-style-default"><img src="http://localhost:8881/wp-content/uploads/2025/09/Munich-Marstall-web-1024x562.jpg" alt="" class="wp-image-207"/><figcaption class="wp-element-caption">Image block, default</figcaption></figure>
+<figure class="wp-block-image size-large is-style-default"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall-web-1024x562.jpg" alt="" class="wp-image-207"/><figcaption class="wp-element-caption">Image block, default</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":194,"sizeSlug":"large","linkDestination":"none","className":"is-style-rounded"} -->
-<figure class="wp-block-image size-large is-style-rounded"><img src="http://localhost:8881/wp-content/uploads/2025/09/8-1024x585.jpg" alt="" class="wp-image-194"/><figcaption class="wp-element-caption">IImage Block, rounded</figcaption></figure>
+<figure class="wp-block-image size-large is-style-rounded"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8-1024x585.jpg" alt="" class="wp-image-194"/><figcaption class="wp-element-caption">IImage Block, rounded</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:gallery {"linkTo":"none","style":{"border":{"style":"solid","width":"1px"}},"borderColor":"accent-3"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped has-border-color has-accent-3-border-color" style="border-style:solid;border-width:1px"><!-- wp:image {"id":207,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/Munich-Marstall-web-1024x562.jpg" alt="" class="wp-image-207"/><figcaption class="wp-element-caption">Munic Marstall</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Munich-Marstall-web-1024x562.jpg" alt="" class="wp-image-207"/><figcaption class="wp-element-caption">Munic Marstall</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":194,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/8-1024x585.jpg" alt="" class="wp-image-194"/><figcaption class="wp-element-caption">Phantasie Town</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/8-1024x585.jpg" alt="" class="wp-image-194"/><figcaption class="wp-element-caption">Phantasie Town</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":211,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/Tofino-BC02024-web-1024x576.jpg" alt="" class="wp-image-211"/><figcaption class="wp-element-caption">Tofino</figcaption></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Tofino-BC02024-web-1024x576.jpg" alt="" class="wp-image-211"/><figcaption class="wp-element-caption">Tofino</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":209,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="" class="wp-image-209"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="" class="wp-image-209"/></figure>
 <!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption">Gallery block caption</figcaption></figure>
 <!-- /wp:gallery -->
 
@@ -1640,8 +1640,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <p>Cover Block</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:cover {"url":"http://localhost:8881/wp-content/uploads/2025/09/Rooftop-Art-Torino-Italy-1024x576.jpg","id":209,"dimRatio":50,"customOverlayColor":"#8593a2","isUserOverlayColor":true,"minHeight":430,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"sizeSlug":"large","align":"wide","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignwide is-light" style="min-height:430px"><img class="wp-block-cover__image-background wp-image-209 size-large" alt="" src="http://localhost:8881/wp-content/uploads/2025/09/Rooftop-Art-Torino-Italy-1024x576.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#8593a2"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"right","orientation":"vertical"}} -->
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy-1024x576.jpg","id":209,"dimRatio":50,"customOverlayColor":"#8593a2","isUserOverlayColor":true,"minHeight":430,"minHeightUnit":"px","contentPosition":"center center","isDark":false,"sizeSlug":"large","align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignwide is-light" style="min-height:430px"><img class="wp-block-cover__image-background wp-image-209 size-large" alt="" src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy-1024x576.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim" style="background-color:#8593a2"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"right","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"right","placeholder":"Write title…","style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"textColor":"base","fontSize":"x-large"} -->
 <p class="has-text-align-right has-base-color has-text-color has-link-color has-x-large-font-size"><strong>We write on the right <br>side of the sculpture</strong></p>
 <!-- /wp:paragraph -->
@@ -1659,7 +1659,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:paragraph -->
 
 <!-- wp:media-text {"align":"wide","mediaId":200,"mediaLink":"http://localhost:8881/?attachment_id=200","mediaType":"image","imageFill":true,"focalPoint":{"x":0.36,"y":0.66},"backgroundColor":"secondary"} -->
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill-element has-secondary-background-color has-background"><figure class="wp-block-media-text__media"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-3-1024x1012.webp" alt="" class="wp-image-200 size-full" style="object-position:36% 66%"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<div class="wp-block-media-text alignwide is-stacked-on-mobile is-image-fill-element has-secondary-background-color has-background"><figure class="wp-block-media-text__media"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-3-1024x1012.webp" alt="" class="wp-image-200 size-full" style="object-position:36% 66%"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
 <p>Actualize the plan and markets. Going forward, we should harness the asset. Leverage skill sets to achieve maximum market share. Actualize the key action and markets. Going forward, we should leverage the asset. Harness the plan and vertical markets. Going forward, we should leverage the asset. Harness the key action and skill sets. Going forward, we should actualize the asset. Harness vertical markets to achieve the best targets. Going forward, we should leverage the plan. Harness the asset and skill sets.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
@@ -1707,7 +1707,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- /wp:paragraph -->
 
 <!-- wp:audio {"id":195} -->
-<figure class="wp-block-audio"><audio controls src="http://localhost:8881/wp-content/uploads/2025/09/428075__bolkmar__river-flowing-binaural-nature-sound.wav"></audio></figure>
+<figure class="wp-block-audio"><audio controls src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/428075__bolkmar__river-flowing-binaural-nature-sound.wav"></audio></figure>
 <!-- /wp:audio -->
 
 <!-- wp:paragraph {"fontSize":"small"} -->
@@ -1902,7 +1902,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":211,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/Tofino-BC02024-web-1024x576.jpg" alt="" class="wp-image-211"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Tofino-BC02024-web-1024x576.jpg" alt="" class="wp-image-211"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div></div>
@@ -1922,7 +1922,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"lightbox":{"enabled":false},"id":209,"sizeSlug":"large","linkDestination":"custom"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="" class="wp-image-209"/></figure>
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Rooftop-Art-Torino-Italy-1024x576.jpg" alt="" class="wp-image-209"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div></div>
@@ -1938,7 +1938,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":199,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":["#FFFFFF","#4B52FF"]}}} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-2.webp" alt="" class="wp-image-199" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2.webp" alt="" class="wp-image-199" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4} -->
@@ -1952,7 +1952,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":197,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-default","style":{"color":[]}} -->
-<figure class="wp-block-image size-full is-style-default"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-1.webp" alt="" class="wp-image-197" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full is-style-default"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-1.webp" alt="" class="wp-image-197" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4} -->
@@ -1966,7 +1966,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":205,"aspectRatio":"4/3","scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":["#4B52FF","#FF7A5C"]}}} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8881/wp-content/uploads/2025/09/image.webp" alt="" class="wp-image-205" style="aspect-ratio:4/3;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.webp" alt="" class="wp-image-205" style="aspect-ratio:4/3;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":4} -->
@@ -2018,7 +2018,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 
 <!-- wp:column {"verticalAlignment":"top","width":"40%"} -->
 <div class="wp-block-column is-vertically-aligned-top" style="flex-basis:40%"><!-- wp:image {"id":203,"sizeSlug":"full","linkDestination":"none","className":"wp-block-image size-large"} -->
-<figure class="wp-block-image size-full size-large"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-old-map.jpg" alt="" class="wp-image-203"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
+<figure class="wp-block-image size-full size-large"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-old-map.jpg" alt="" class="wp-image-203"/><figcaption class="wp-element-caption">Screenshot</figcaption></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -2103,8 +2103,8 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=183</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://localhost:8881/wp-content/uploads/2025/09/image.jpeg","id":204,"dimRatio":20,"overlayColor":"black","isUserOverlayColor":true,"minHeight":832,"minHeightUnit":"px","contentPosition":"bottom center","sizeSlug":"full","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50);min-height:832px"><img class="wp-block-cover__image-background wp-image-204 size-full" alt="" src="http://localhost:8881/wp-content/uploads/2025/09/image.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-20 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained","justifyContent":"left","contentSize":"718px","wideSize":"1340px"}} -->
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.jpeg","id":204,"dimRatio":20,"overlayColor":"black","isUserOverlayColor":true,"minHeight":832,"minHeightUnit":"px","contentPosition":"bottom center","sizeSlug":"full","align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50","left":"var:preset|spacing|50","right":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover alignfull has-custom-content-position is-position-bottom-center" style="padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50);min-height:832px"><img class="wp-block-cover__image-background wp-image-204 size-full" alt="" src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image.jpeg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-black-background-color has-background-dim-20 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained","justifyContent":"left","contentSize":"718px","wideSize":"1340px"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"left","level":1} -->
 <h1 class="wp-block-heading has-text-align-left">Tell your story</h1>
 <!-- /wp:heading -->
@@ -2136,7 +2136,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 
 <!-- wp:column {"verticalAlignment":"center","width":"50%","layout":{"type":"default"}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"id":200,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-3.webp" alt="" class="wp-image-200" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-3.webp" alt="" class="wp-image-200" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -2235,12 +2235,12 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 <!-- /wp:group -->
 
 <!-- wp:image {"id":201,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-4.webp" alt="" class="wp-image-201" style="aspect-ratio:16/9;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-4.webp" alt="" class="wp-image-201" style="aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
 
 <!-- wp:image {"id":202,"aspectRatio":"1","scale":"cover","sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="http://localhost:8881/wp-content/uploads/2025/09/image-5.webp" alt="" class="wp-image-202" style="aspect-ratio:1;object-fit:cover"/></figure>
+<figure class="wp-block-image size-full"><img src="https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-5.webp" alt="" class="wp-image-202" style="aspect-ratio:1;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
@@ -2286,8 +2286,8 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"categories":["header"],"patternName":"core/fullwidth-header-with-hero-image","name":"Fullwidth header with hero image"},"align":"full","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull"><!-- wp:cover {"url":"http://localhost:8881/wp-content/uploads/2025/09/image-2-766x1024.jpeg","id":198,"hasParallax":true,"dimRatio":30,"overlayColor":"accent-2","isUserOverlayColor":true,"minHeight":40,"minHeightUnit":"vw","contentPosition":"center right","sizeSlug":"large","align":"full","style":{"spacing":{"margin":{"top":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"x-large"} -->
-<div class="wp-block-cover alignfull has-parallax has-custom-content-position is-position-center-right has-contrast-color has-text-color has-link-color has-x-large-font-size" style="margin-top:0;min-height:40vw"><div class="wp-block-cover__image-background wp-image-198 size-large has-parallax" style="background-position:50% 50%;background-image:url(http://localhost:8881/wp-content/uploads/2025/09/image-2-766x1024.jpeg)"></div><span aria-hidden="true" class="wp-block-cover__background has-accent-2-background-color has-background-dim-30 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"className":"is-style-default","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2-766x1024.jpeg","id":198,"hasParallax":true,"dimRatio":30,"overlayColor":"accent-2","isUserOverlayColor":true,"minHeight":40,"minHeightUnit":"vw","contentPosition":"center right","sizeSlug":"large","align":"full","style":{"spacing":{"margin":{"top":"0"}},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast","fontSize":"x-large"} -->
+<div class="wp-block-cover alignfull has-parallax has-custom-content-position is-position-center-right has-contrast-color has-text-color has-link-color has-x-large-font-size" style="margin-top:0;min-height:40vw"><div class="wp-block-cover__image-background wp-image-198 size-large has-parallax" style="background-position:50% 50%;background-image:url(https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/image-2-766x1024.jpeg)"></div><span aria-hidden="true" class="wp-block-cover__background has-accent-2-background-color has-background-dim-30 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"className":"is-style-default","style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"textColor":"contrast"} -->
 <p class="is-style-default has-contrast-color has-text-color has-link-color">Using the page no title template <br>you can start with a hero image to set<br>the emotional stage for your content</p>
 <!-- /wp:paragraph -->
 
