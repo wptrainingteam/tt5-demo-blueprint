@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.8.2" created="2025-09-23 10:15" -->
+	<!-- generator="WordPress/6.8.3" created="2025-10-16 14:36" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Theme Demo Post</title>
 	<link>http://localhost:8881</link>
 	<description></description>
-	<pubDate>Tue, 23 Sep 2025 10:15:01 +0000</pubDate>
+	<pubDate>Thu, 16 Oct 2025 14:36:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://localhost:8881</wp:base_site_url>
@@ -136,7 +136,7 @@
 		<wp:term_name><![CDATA[Uncategorized]]></wp:term_name>
 	</wp:term>
 		
-	<generator>https://wordpress.org/?v=6.8.2</generator>
+	<generator>https://wordpress.org/?v=6.8.3</generator>
 
 		<item>
 		<title><![CDATA[Privacy Policy]]></title>
@@ -240,7 +240,7 @@
 							</item>
 					<item>
 		<title><![CDATA[News]]></title>
-		<link>http://localhost:8881/?page_id=26</link>
+		<link>http://localhost:8881/news/</link>
 		<pubDate>Mon, 16 Sep 2024 13:54:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=26</guid>
@@ -264,7 +264,7 @@
 														</item>
 					<item>
 		<title><![CDATA[About Us]]></title>
-		<link>http://localhost:8881/?page_id=28</link>
+		<link>http://localhost:8881/about-us/</link>
 		<pubDate>Mon, 16 Sep 2024 14:19:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=28</guid>
@@ -384,7 +384,7 @@
 														</item>
 					<item>
 		<title><![CDATA[8]]></title>
-		<link>http://localhost:8881/?attachment_id=194</link>
+		<link>http://localhost:8881/8/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/8.jpg</guid>
@@ -417,7 +417,7 @@
 							</item>
 					<item>
 		<title><![CDATA[428075__bolkmar__river-flowing-binaural-nature-sound]]></title>
-		<link>http://localhost:8881/?attachment_id=195</link>
+		<link>http://localhost:8881/428075__bolkmar__river-flowing-binaural-nature-sound/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/428075__bolkmar__river-flowing-binaural-nature-sound.wav</guid>
@@ -450,7 +450,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image-1]]></title>
-		<link>http://localhost:8881/?attachment_id=196</link>
+		<link>http://localhost:8881/image-1/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-1.jpeg</guid>
@@ -483,7 +483,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image-1]]></title>
-		<link>http://localhost:8881/?attachment_id=197</link>
+		<link>http://localhost:8881/image-1-2/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-1.webp</guid>
@@ -516,7 +516,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image-2]]></title>
-		<link>http://localhost:8881/?attachment_id=198</link>
+		<link>http://localhost:8881/image-2/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-2.jpeg</guid>
@@ -549,7 +549,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image-2]]></title>
-		<link>http://localhost:8881/?attachment_id=199</link>
+		<link>http://localhost:8881/image-2-2/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-2.webp</guid>
@@ -582,7 +582,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image-3]]></title>
-		<link>http://localhost:8881/?attachment_id=200</link>
+		<link>http://localhost:8881/image-3/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:16 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-3.webp</guid>
@@ -615,7 +615,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image-4]]></title>
-		<link>http://localhost:8881/?attachment_id=201</link>
+		<link>http://localhost:8881/image-4/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-4.webp</guid>
@@ -648,7 +648,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image-5]]></title>
-		<link>http://localhost:8881/?attachment_id=202</link>
+		<link>http://localhost:8881/image-5/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-5.webp</guid>
@@ -681,7 +681,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>http://localhost:8881/?attachment_id=203</link>
+		<link>http://localhost:8881/screenshot/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image-old-map.jpg</guid>
@@ -714,7 +714,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image]]></title>
-		<link>http://localhost:8881/?attachment_id=204</link>
+		<link>http://localhost:8881/image/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image.jpeg</guid>
@@ -747,7 +747,7 @@
 							</item>
 					<item>
 		<title><![CDATA[image]]></title>
-		<link>http://localhost:8881/?attachment_id=205</link>
+		<link>http://localhost:8881/image-6/</link>
 		<pubDate>Mon, 22 Sep 2025 16:29:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/image.webp</guid>
@@ -780,7 +780,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Munich-Marstall-web]]></title>
-		<link>http://localhost:8881/?attachment_id=207</link>
+		<link>http://localhost:8881/munich-marstall-web/</link>
 		<pubDate>Mon, 22 Sep 2025 16:30:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/Munich-Marstall-web.jpg</guid>
@@ -813,7 +813,7 @@
 							</item>
 					<item>
 		<title><![CDATA[random-headshot-1]]></title>
-		<link>http://localhost:8881/?attachment_id=208</link>
+		<link>http://localhost:8881/random-headshot-1/</link>
 		<pubDate>Mon, 22 Sep 2025 16:30:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/random-headshot-1.jpg</guid>
@@ -846,7 +846,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Rooftop-Art-Torino-Italy]]></title>
-		<link>http://localhost:8881/?attachment_id=209</link>
+		<link>http://localhost:8881/rooftop-art-torino-italy/</link>
 		<pubDate>Mon, 22 Sep 2025 16:30:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/Rooftop-Art-Torino-Italy.jpg</guid>
@@ -879,7 +879,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Tofino-BC02024-web]]></title>
-		<link>http://localhost:8881/?attachment_id=211</link>
+		<link>http://localhost:8881/tofino-bc02024-web/</link>
 		<pubDate>Mon, 22 Sep 2025 16:30:23 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/Tofino-BC02024-web.jpg</guid>
@@ -912,7 +912,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot 2025-09-23 at 09.50.38]]></title>
-		<link>http://localhost:8881/?attachment_id=254</link>
+		<link>http://localhost:8881/screenshot-2025-09-23-at-09-50-38/</link>
 		<pubDate>Tue, 23 Sep 2025 09:22:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/wp-content/uploads/2025/09/Screenshot-2025-09-23-at-09.50.38.png</guid>
@@ -933,7 +933,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/screenshot-2025-09-23.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/media/Screenshot-2025-09-23-at-09.50.38.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2025/09/Screenshot-2025-09-23-at-09.50.38.png]]></wp:meta_value>
@@ -1128,7 +1128,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>http://localhost:8881/?p=10</link>
+		<link>http://localhost:8881/navigation-2/</link>
 		<pubDate>Sat, 31 Aug 2024 10:10:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/navigation/</guid>
@@ -1142,7 +1142,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 <!-- wp:navigation-submenu {"label":"Templates","type":"page","id":63,"url":"http://localhost:8881/?page_id=63","kind":"post-type"} -->
 <!-- wp:navigation-link {"label":"Single Page Layout","type":"page","id":65,"url":"http://localhost:8881/?page_id=65","kind":"post-type"} /-->
 
-<!-- wp:navigation-link {"label":"Page no title","type":"page","id":192,"url":"http://localhost:8881/notfound","kind":"post-type"} /-->
+<!-- wp:navigation-link {"label":"Page no title","type":"page","id":192,"url":"http://localhost:8881/page-no-title","kind":"post-type"} /-->
 
 <!-- wp:navigation-link {"label":"404 Page - not found","url":"/apage","kind":"custom"} /-->
 <!-- /wp:navigation-submenu -->
@@ -1156,8 +1156,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2024-08-31 10:10:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-08-31 10:10:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-09-22 17:43:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-09-22 17:43:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-16 11:18:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-16 11:18:53]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[navigation-2]]></wp:post_name>
@@ -1170,7 +1170,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:8881/?p=11</link>
+		<link>http://localhost:8881/wp-global-styles-twentytwentyfive-trunk/</link>
 		<pubDate>Sat, 31 Aug 2024 10:11:31 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/wp-global-styles-twentytwentyfive-trunk/</guid>
@@ -1195,7 +1195,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 						</item>
 					<item>
 		<title><![CDATA[Tidal coastal tour in British Columbia]]></title>
-		<link>http://localhost:8881/?p=20</link>
+		<link>http://localhost:8881/tidal-coastal-tour-in-british-columbia/</link>
 		<pubDate>Mon, 16 Sep 2024 13:39:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?p=20</guid>
@@ -1238,7 +1238,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							</item>
 					<item>
 		<title><![CDATA[Rooftop art in Torino, Italy.]]></title>
-		<link>http://localhost:8881/?p=22</link>
+		<link>http://localhost:8881/rooftop-art-in-torino-italy/</link>
 		<pubDate>Mon, 16 Sep 2024 13:52:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?p=22</guid>
@@ -1283,7 +1283,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							</item>
 					<item>
 		<title><![CDATA[Patterns]]></title>
-		<link>http://localhost:8881/?page_id=32</link>
+		<link>http://localhost:8881/patterns/</link>
 		<pubDate>Mon, 16 Sep 2024 14:23:11 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=32</guid>
@@ -1459,7 +1459,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 														</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:8881/?p=33</link>
+		<link>http://localhost:8881/wp-global-styles-twentytwentyfive/</link>
 		<pubDate>Fri, 19 Sep 2025 16:54:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=33</guid>
@@ -1484,7 +1484,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 						</item>
 					<item>
 		<title><![CDATA[Blog Home]]></title>
-		<link>http://localhost:8881/?p=51</link>
+		<link>http://localhost:8881/home/</link>
 		<pubDate>Mon, 16 Sep 2024 15:23:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/home/</guid>
@@ -1553,7 +1553,7 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							</item>
 					<item>
 		<title><![CDATA[Blocks]]></title>
-		<link>http://localhost:8881/?page_id=52</link>
+		<link>http://localhost:8881/patterns/blocks/</link>
 		<pubDate>Mon, 16 Sep 2024 15:48:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=52</guid>
@@ -1757,7 +1757,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							</item>
 					<item>
 		<title><![CDATA[Templates]]></title>
-		<link>http://localhost:8881/?page_id=63</link>
+		<link>http://localhost:8881/templates/</link>
 		<pubDate>Mon, 16 Sep 2024 15:52:28 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=63</guid>
@@ -1801,7 +1801,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 														</item>
 					<item>
 		<title><![CDATA[Single Page Layout]]></title>
-		<link>http://localhost:8881/?page_id=65</link>
+		<link>http://localhost:8881/templates/single-page-layout/</link>
 		<pubDate>Mon, 16 Sep 2024 15:55:57 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=65</guid>
@@ -2073,7 +2073,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							</item>
 					<item>
 		<title><![CDATA[Custom Styles]]></title>
-		<link>http://localhost:8881/?p=129</link>
+		<link>http://localhost:8881/wp-global-styles-twentytwentyfour/</link>
 		<pubDate>Tue, 17 Sep 2024 16:51:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/wp-global-styles-twentytwentyfour/</guid>
@@ -2098,7 +2098,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 						</item>
 					<item>
 		<title><![CDATA[Page Patterns]]></title>
-		<link>http://localhost:8881/?page_id=183</link>
+		<link>http://localhost:8881/patterns/page-patterns/</link>
 		<pubDate>Wed, 18 Sep 2024 08:52:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=183</guid>
@@ -2280,7 +2280,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 														</item>
 					<item>
 		<title><![CDATA[Page no title]]></title>
-		<link>http://localhost:8881/?page_id=192</link>
+		<link>http://localhost:8881/templates/page-no-title/</link>
 		<pubDate>Wed, 18 Sep 2024 09:04:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/?page_id=192</guid>
@@ -2324,13 +2324,13 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:post_id>192</wp:post_id>
 		<wp:post_date><![CDATA[2024-09-18 09:04:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-09-18 09:04:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-09-22 17:36:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-09-22 17:36:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-10-16 11:19:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-16 11:19:56]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[page-no-title]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>63</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -2339,10 +2339,14 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Menu]]></title>
-		<link>http://localhost:8881/?p=220</link>
+		<link>http://localhost:8881/menu/</link>
 		<pubDate>Mon, 22 Sep 2025 17:12:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=220</guid>
@@ -2438,7 +2442,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>http://localhost:8881/?p=86</link>
+		<link>http://localhost:8881/header/</link>
 		<pubDate>Tue, 17 Sep 2024 09:20:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/header/</guid>
@@ -2478,7 +2482,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							</item>
 					<item>
 		<title><![CDATA[Footer]]></title>
-		<link>http://localhost:8881/?p=98</link>
+		<link>http://localhost:8881/footer/</link>
 		<pubDate>Tue, 17 Sep 2024 09:40:49 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/footer/</guid>
@@ -2534,7 +2538,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							</item>
 					<item>
 		<title><![CDATA[Pages]]></title>
-		<link>http://localhost:8881/?p=118</link>
+		<link>http://localhost:8881/page/</link>
 		<pubDate>Tue, 17 Sep 2024 10:34:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://wordpress-67.local/page/</guid>
@@ -2579,7 +2583,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							</item>
 					<item>
 		<title><![CDATA[Header]]></title>
-		<link>http://localhost:8881/?p=216</link>
+		<link>http://localhost:8881/header/</link>
 		<pubDate>Mon, 22 Sep 2025 16:37:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=216</guid>
@@ -2613,8 +2617,8 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:post_id>216</wp:post_id>
 		<wp:post_date><![CDATA[2025-09-22 16:37:34]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2025-09-22 16:37:34]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-09-22 17:22:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-09-22 17:22:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2025-09-23 13:10:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-09-23 13:10:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[header]]></wp:post_name>
@@ -2633,7 +2637,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							</item>
 					<item>
 		<title><![CDATA[Blog Home]]></title>
-		<link>http://localhost:8881/?p=234</link>
+		<link>http://localhost:8881/home/</link>
 		<pubDate>Mon, 22 Sep 2025 17:28:21 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=234</guid>
@@ -2684,7 +2688,7 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 							</item>
 					<item>
 		<title><![CDATA[Page: 404]]></title>
-		<link>http://localhost:8881/?p=242</link>
+		<link>http://localhost:8881/404/</link>
 		<pubDate>Mon, 22 Sep 2025 17:37:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://localhost:8881/?p=242</guid>
@@ -2735,6 +2739,81 @@ https://www.youtube.com/watch?v=Auo6xQpG-rU
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>http://localhost:8881/footer/</link>
+		<pubDate>Thu, 16 Oct 2025 11:23:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<guid isPermaLink="false">http://localhost:8881/footer/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|50"}},"border":{"top":{"color":"var:preset|color|accent-2","width":"1px"},"right":{},"bottom":{},"left":{}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="border-top-color:var(--wp--preset--color--accent-2);border-top-width:1px;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:site-logo /-->
+
+<!-- wp:group {"align":"full","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"bottom"}} -->
+<div class="wp-block-group alignfull"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:site-title {"level":2} /-->
+
+<!-- wp:site-tagline /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:spacer {"height":"var:preset|spacing|40","width":"0px"} -->
+<div style="height:var(--wp--preset--spacing--40);width:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|80"}},"layout":{"type":"flex","flexWrap":"wrap","verticalAlignment":"top","justifyContent":"space-between"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><a href="https://github.com/wptrainingteam/tt5-demo-blueprint/tree/main">Demo on GitHub</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/blueprint.json">Use Playground</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignfull"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Twenty Twenty-Five</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">
+				Designed with <a href="https://wordpress.org" rel="nofollow">WordPress</a>			</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>259</wp:post_id>
+		<wp:post_date><![CDATA[2025-10-16 11:23:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-10-16 11:23:53]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-10-16 11:25:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-10-16 11:25:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
 		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
