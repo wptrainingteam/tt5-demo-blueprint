@@ -42,6 +42,5 @@
       }
     }
   ],
-   "plugins": [ "block-visibility","public-post-preview", "gutenberg" ],
-
+   "plugins": [ "block-visibility","public-post-preview", "gutenberg" ]
 }
