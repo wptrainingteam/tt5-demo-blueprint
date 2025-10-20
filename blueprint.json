@@ -1,9 +1,5 @@
 {
-  "landingPage": "/",
-  "features": {
-    "networking": true
-  },
-  "plugins": [ "block-visibility","public-post-preview", "gutenberg" ],
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
   "login": true,
   "steps": [
     {
@@ -45,5 +41,7 @@
         "permalink_structure": "/%postname%/"
       }
     }
-  ]
+  ],
+   "plugins": [ "block-visibility","public-post-preview", "gutenberg" ],
+
 }
