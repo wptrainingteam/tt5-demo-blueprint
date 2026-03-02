@@ -1,6 +1,6 @@
 # Twenty Twenty Five default theme demo blueprint. 
 
-This is the example code for the WordPress Developer article: How to build a Theme demo blueprint for WordPress Playground
+This is the example code for the article: [How to Build an Interactive WordPress Theme Demo with Playground Blueprints](https://wordpress.com/blog/2026/01/05/build-a-wordpress-theme-demo-with-playground-blueprints/)
 
  
 ![Demo Content](/media/screenshot-2025-09-23.png)
@@ -9,10 +9,6 @@ This is the example code for the WordPress Developer article: How to build a The
 
 [You can test is right here w/ playground](https://playground.wordpress.net/?blueprint-url=https://raw.githubusercontent.com/wptrainingteam/tt5-demo-blueprint/main/blueprint.json)
 
-The first version of  the content ran into a bug that still needs to be fixed. 
-I tried now a second version of content. 
-
-Still a work in progress.
 
 ## URL Replacement Script
 
